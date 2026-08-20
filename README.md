@@ -1,0 +1,1 @@
+# yamakata.github.io

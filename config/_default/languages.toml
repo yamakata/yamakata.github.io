@@ -5,13 +5,20 @@
 #
 # languageCode / languageName ではなく locale / label を使っている。
 # 前者は Hugo v0.158.0 で非推奨になり、`hugo --minify` が警告を出すため。
-
+#
+# displayName は Blowfish 独自のパラメータ。言語スイッチャー
+# （themes: partials/header/components/translations.html）が
+# .Language.Params.displayName から表示名を取得しているため、
+# これを設定しないとドロップダウンの項目が空欄になり、言語を切り替えられない。
+# label とは別物なので両方必要。
 [languages.ja]
   locale = "ja"
   label = "日本語"
   contentDir = "content/ja"
   title = "山肩研究室"
   weight = 1
+  [languages.ja.params]
+    displayName = "日本語"
 
 [languages.en]
   locale = "en"
@@ -19,3 +26,5 @@
   contentDir = "content/en"
   title = "Yamakata Laboratory"
   weight = 2
+  [languages.en.params]
+    displayName = "English"

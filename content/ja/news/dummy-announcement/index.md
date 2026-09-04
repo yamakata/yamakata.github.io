@@ -3,7 +3,7 @@ title: "【サンプル】これはダミー記事です"
 date: 2026-09-04
 draft: false
 weight: 1
-categories: ["お知らせ"]
+categories: ["news"]
 ---
 
 ## 【サンプル】これはダミー記事です

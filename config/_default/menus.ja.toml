@@ -5,45 +5,44 @@
 # name を直接書く」という Hugo 標準の方式を採る（このファイルと
 # menus.en.toml で対応）。
 #
-# P1 ではまだページが存在しないため、トップページへのリンクのみを有効にする。
+# P2 で全ページのプレースホルダを作成したため、対応する項目をすべて有効にする。
 
 [[main]]
   name = "ホーム"
   pageRef = "/"
   weight = 1
 
-# P2 でページ作成後に追加する項目（今追加すると 404 になるためコメントアウト）
-# [[main]]
-#   name = "研究"
-#   pageRef = "research"
-#   weight = 10
-#
-# [[main]]
-#   name = "メンバー"
-#   pageRef = "members"
-#   weight = 20
-#
-# [[main]]
-#   name = "業績"
-#   pageRef = "publications"
-#   weight = 30
-#
-# [[main]]
-#   name = "ニュース"
-#   pageRef = "news"
-#   weight = 40
-#
-# [[main]]
-#   name = "参加希望の方へ"
-#   pageRef = "join"
-#   weight = 50
-#
-# [[main]]
-#   name = "アクセス"
-#   pageRef = "access"
-#   weight = 60
-#
-# [[main]]
-#   name = "問い合わせ"
-#   pageRef = "contact"
-#   weight = 70
+[[main]]
+  name = "研究"
+  pageRef = "research"
+  weight = 10
+
+[[main]]
+  name = "メンバー"
+  pageRef = "members"
+  weight = 20
+
+[[main]]
+  name = "業績"
+  pageRef = "publications"
+  weight = 30
+
+[[main]]
+  name = "お知らせ"
+  pageRef = "news"
+  weight = 40
+
+[[main]]
+  name = "受験・配属希望者へ"
+  pageRef = "join"
+  weight = 50
+
+[[main]]
+  name = "アクセス"
+  pageRef = "access"
+  weight = 60
+
+[[main]]
+  name = "問い合わせ"
+  pageRef = "contact"
+  weight = 70

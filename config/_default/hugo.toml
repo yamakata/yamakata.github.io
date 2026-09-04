@@ -1,0 +1,22 @@
+# -- サイト全体の基本設定 --
+# 言語ごとの設定は languages.toml、テーマの見た目に関する設定は params.toml に分けている。
+
+baseURL = "https://yamakata.github.io/"
+title = "山肩研究室"
+
+# コンテンツが存在しない場合に既定で使う言語。
+defaultContentLanguage = "ja"
+
+# false にすると既定言語（ja）はサブディレクトリなしでルート "/" に配信され、
+# 他言語（en）だけ "/en/" 配下に配信される。既存の index.html が "/" を
+# 使っているため、将来の切り替え後も URL 構造を変えないためにこの設定にする。
+defaultContentLanguageInSubdir = false
+
+[module]
+  # Blowfish v3.5.0 が要求する Hugo extended の最小バージョン。
+  # テーマ本体の config.toml ([module.hugoVersion]) で min = "0.162.0" が
+  # 指定されているため、サイト側にも明示し、古い Hugo でビルドした場合に
+  # エラーとして検知できるようにする。
+  [module.hugoVersion]
+    extended = true
+    min = "0.162.0"

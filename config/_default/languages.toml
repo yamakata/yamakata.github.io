@@ -1,0 +1,21 @@
+# -- 言語ごとの設定 --
+# Blowfish の homepage レイアウト（profile）は見出しに Site.Title を使うため、
+# 言語ごとに title も上書きしている（未設定だと hugo.toml の日本語タイトルが
+# 英語版にもそのまま出てしまう）。
+#
+# languageCode / languageName ではなく locale / label を使っている。
+# 前者は Hugo v0.158.0 で非推奨になり、`hugo --minify` が警告を出すため。
+
+[languages.ja]
+  locale = "ja"
+  label = "日本語"
+  contentDir = "content/ja"
+  title = "山肩研究室"
+  weight = 1
+
+[languages.en]
+  locale = "en"
+  label = "English"
+  contentDir = "content/en"
+  title = "Yamakata Laboratory"
+  weight = 2

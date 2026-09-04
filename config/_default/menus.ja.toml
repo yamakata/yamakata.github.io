@@ -1,0 +1,49 @@
+# -- 日本語メインメニュー --
+# Blowfish のメニューテンプレート（desktop-menu.html）は各項目の `name` を
+# そのまま表示するだけで、i18n キーからの自動解決は行わない。そのため
+# 多言語対応は「言語ごとにメニューファイルを分けて、それぞれの言語で
+# name を直接書く」という Hugo 標準の方式を採る（このファイルと
+# menus.en.toml で対応）。
+#
+# P1 ではまだページが存在しないため、トップページへのリンクのみを有効にする。
+
+[[main]]
+  name = "ホーム"
+  pageRef = "/"
+  weight = 1
+
+# P2 でページ作成後に追加する項目（今追加すると 404 になるためコメントアウト）
+# [[main]]
+#   name = "研究"
+#   pageRef = "research"
+#   weight = 10
+#
+# [[main]]
+#   name = "メンバー"
+#   pageRef = "members"
+#   weight = 20
+#
+# [[main]]
+#   name = "業績"
+#   pageRef = "publications"
+#   weight = 30
+#
+# [[main]]
+#   name = "ニュース"
+#   pageRef = "news"
+#   weight = 40
+#
+# [[main]]
+#   name = "参加希望の方へ"
+#   pageRef = "join"
+#   weight = 50
+#
+# [[main]]
+#   name = "アクセス"
+#   pageRef = "access"
+#   weight = 60
+#
+# [[main]]
+#   name = "問い合わせ"
+#   pageRef = "contact"
+#   weight = 70

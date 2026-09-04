@@ -1,0 +1,49 @@
+# -- English main menu --
+# Same structure as menus.ja.toml. Blowfish's menu template renders each
+# item's `name` verbatim (no i18n key resolution), so per-language menu
+# files with hardcoded, already-translated names is the standard approach.
+#
+# Only the homepage entry is enabled in P1, since the other pages don't
+# exist yet.
+
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+
+# Items to add in P2, once the corresponding pages exist (adding them now
+# would produce 404s):
+# [[main]]
+#   name = "Research"
+#   pageRef = "research"
+#   weight = 10
+#
+# [[main]]
+#   name = "Members"
+#   pageRef = "members"
+#   weight = 20
+#
+# [[main]]
+#   name = "Publications"
+#   pageRef = "publications"
+#   weight = 30
+#
+# [[main]]
+#   name = "News"
+#   pageRef = "news"
+#   weight = 40
+#
+# [[main]]
+#   name = "Join Us"
+#   pageRef = "join"
+#   weight = 50
+#
+# [[main]]
+#   name = "Access"
+#   pageRef = "access"
+#   weight = 60
+#
+# [[main]]
+#   name = "Contact"
+#   pageRef = "contact"
+#   weight = 70

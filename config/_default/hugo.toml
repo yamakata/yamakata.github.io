@@ -12,6 +12,16 @@ defaultContentLanguage = "ja"
 # 使っているため、将来の切り替え後も URL 構造を変えないためにこの設定にする。
 defaultContentLanguageInSubdir = false
 
+
+# tags は使わず categories のみ有効化する。
+# テーマ既定（module 側 config/_default/hugo.toml）は
+# tag/category/author/series の4つを定義しているが、サイト側で
+# [taxonomies] を定義すると値ごと上書きされ、ここに書いた category だけが
+# 有効になる（実際に `hugo --minify` で public/tags/ が生成されないこと、
+# public/categories/ が生成されることを確認済み）。
+[taxonomies]
+  category = "categories"
+
 [module]
   # Blowfish v3.5.0 が要求する Hugo extended の最小バージョン。
   # テーマ本体の config.toml ([module.hugoVersion]) で min = "0.162.0" が

@@ -6,10 +6,7 @@
 # P2 added placeholder pages for the whole site, so every entry below is
 # now enabled to match.
 
-[[main]]
-  name = "Home"
-  pageRef = "/"
-  weight = 1
+
 
 [[main]]
   name = "Research"

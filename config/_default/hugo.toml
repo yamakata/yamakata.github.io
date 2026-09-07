@@ -13,6 +13,18 @@ defaultContentLanguage = "ja"
 # この設定にする。
 defaultContentLanguageInSubdir = true
 
+# robots.txt を出力しない設定を明示する。
+# 理由: テーマ側 config/_default/hugo.toml の [outputs] で
+# home = ["HTML", "RSS", "JSON"] と定義されており ROBOTSTXT が含まれていない。
+# サイト側で [outputs] を独自定義していないためテーマの値がそのまま使われ、
+# enableRobotsTXT の値に関わらず robots.txt は生成されない
+# （enableRobotsTXT = true を明示して `hugo --minify` した場合でも
+# public/robots.txt が生成されないことを実測で確認済み）。
+# この設定は「意図して無効にしている」ことを明示するために書いており、
+# 将来 [outputs] 側で ROBOTSTXT を追加しても robots.txt が生成されない
+# ようにする歯止めも兼ねる。
+enableRobotsTXT = false
+
 
 # tags は使わず categories のみ有効化する。
 # テーマ既定（module 側 config/_default/hugo.toml）は

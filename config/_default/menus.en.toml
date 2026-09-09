@@ -1,0 +1,44 @@
+# -- English main menu --
+# Same structure as menus.ja.toml. Blowfish's menu template renders each
+# item's `name` verbatim (no i18n key resolution), so per-language menu
+# files with hardcoded, already-translated names is the standard approach.
+#
+# P2 added placeholder pages for the whole site, so every entry below is
+# now enabled to match.
+
+
+
+[[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 10
+
+[[main]]
+  name = "Members"
+  pageRef = "members"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 30
+
+[[main]]
+  name = "News"
+  pageRef = "news"
+  weight = 40
+
+[[main]]
+  name = "Prospective Students"
+  pageRef = "join"
+  weight = 50
+
+[[main]]
+  name = "Access"
+  pageRef = "access"
+  weight = 60
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 70

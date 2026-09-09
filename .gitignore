@@ -1,0 +1,11 @@
+public/
+resources/
+.hugo_build.lock
+_vendor/
+.DS_Store
+
+# 業務報告・作業ログ（非公開。git 管理外）
+worklog/
+
+# Claude Code のローカル設定（非公開。git 管理外）
+.claude/

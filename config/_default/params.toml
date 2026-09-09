@@ -1,0 +1,21 @@
+# -- テーマ表示設定 --
+# キーは Hugo Modules キャッシュ内の Blowfish 本体
+# (github.com/nunocoracao/blowfish/v3 config/_default/params.toml) に実在する
+# ものだけを使用している。
+#
+# 調べた結果、Blowfish がビルドに必須とするパラメータ（未設定だとエラーや警告に
+# なるもの）は無く、site 側で何も指定しなければテーマの既定値がそのまま使われる。
+# 以下は「既定値と同じ値」だが、このサイトが profile レイアウトを選んでいることを
+# 明示するために書いている。
+
+# TODO(公開時): 公開前に noindex を解除する
+# layouts/partials/head.html（テーマ本体）36-38行目が Site.Params.robots を
+# 読んで <meta name="robots" content="..."> を出力する。全ページ共通で
+# 未公開であることをクローラに伝えるためここで指定する。
+# [homepage] より前（トップレベル）に書く必要がある。TOML は
+# テーブルヘッダー（[homepage]）以降のキーがそのテーブルの子になるため、
+# 後ろに書くと params.homepage.robots になってしまい効かない。
+robots = "noindex, nofollow"
+
+[homepage]
+  layout = "profile" # 著者プロフィール型。本文（_index.md）がそのまま section として表示される。

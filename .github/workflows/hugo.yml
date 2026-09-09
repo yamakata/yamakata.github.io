@@ -1,0 +1,110 @@
+name: Hugo CI/CD
+
+# トリガー:
+# - main への push        → ビルドしてデプロイ
+# - setup/hugo-blowfish への push → ビルドのみ（main にマージする前に CI が
+#   通ることを検証するため。deploy job 側の if 条件でデプロイをスキップする）
+# - pull_request          → ビルドのみ
+# - workflow_dispatch      → 手動実行（GitHub Pages の配信元を「Actions」へ
+#   切り替えた直後の再実行に使う）
+on:
+  push:
+    branches:
+      - main
+      - setup/hugo-blowfish
+  pull_request:
+  workflow_dispatch:
+
+# 既定は権限なし。必要な権限は各 job 側で最小限だけ付与する。
+permissions: {}
+
+env:
+  # Blowfish v3.5.0 が要求する Hugo extended の最小バージョンとは別に、
+  # CI で使う具体的なバージョンをここで固定する。
+  # config/_default/hugo.toml の [module.hugoVersion] min = "0.162.0" は
+  # 「これより古いと壊れる」という下限の明示であり、CI 側で実際にインストール
+  # するバージョンの指定はこの環境変数が担う。
+  HUGO_VERSION: 0.165.0
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        # enableGitInfo は config/_default 配下のどのファイルにも設定されて
+        # おらず既定値 false（git のコミット情報を使わない）と確認済みなので、
+        # actions/checkout の既定（浅いクローン）のままで問題ない。
+
+      # Hugo Modules を使っているため、モジュール取得に Go の実行環境が要る。
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          # go.mod 3行目に `go 1.27.0` の go ディレクティブが存在することを
+          # 確認済みのため go-version-file を使う。go.mod は書き換え禁止の
+          # ファイルなので、ここでバージョンを二重管理せずに go.mod 側の値に
+          # 追随させる。
+          go-version-file: go.mod
+
+      # Hugo Modules のダウンロードキャッシュ。パスは推測せず HUGO_CACHEDIR に
+      # 明示した値を actions/cache の path にもそのまま渡す。
+      - name: Cache Hugo modules
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: ${{ runner.os }}-hugomod-${{ env.HUGO_VERSION }}-${{ hashFiles('go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-${{ env.HUGO_VERSION }}-
+
+      # サードパーティの Hugo セットアップ Action は使わず、公式スターターと
+      # 同じ「GitHub Releases の .deb を取得して dpkg -i」方式で入れる。
+      - name: Install Hugo (extended)
+        run: |
+          wget -O "${{ runner.temp }}/hugo.deb" \
+            "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          sudo dpkg -i "${{ runner.temp }}/hugo.deb"
+
+      # go.mod / go.sum を書き換えるコマンド（hugo mod get -u 等）は使わない。
+      # モジュールの取得はビルドコマンド自体に任せる。
+      # baseURL は -b / --baseURL で上書きしない
+      # （config/_default/hugo.toml の baseURL をそのまま使う）。
+      - name: Build
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+        run: hugo --gc --minify
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    # デプロイは GitHub Pages という単一の配信先を共有するため、このジョブ
+    # だけ concurrency を絞る。build job は setup/hugo-blowfish への push や
+    # pull_request でも走るので、ここに concurrency を掛けると無関係な
+    # ブランチのビルド検証まで直列化されてしまうため、job 単位に留める。
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    # main への push か workflow_dispatch のときだけ実行する。
+    # workflow_dispatch は「配信元切替後の再実行」用途であり、想定は main
+    # ブランチ上での手動実行のみなので、event_name だけでなく
+    # github.ref が main であることも必須条件にする
+    # （main 以外のブランチで workflow_dispatch されてもデプロイしない）。
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

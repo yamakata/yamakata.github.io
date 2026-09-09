@@ -1,0 +1,45 @@
+# -- サイト全体の基本設定 --
+# 言語ごとの設定は languages.toml、テーマの見た目に関する設定は params.toml に分けている。
+
+baseURL = "https://yamakata.github.io/"
+title = "山肩研究室"
+
+# コンテンツが存在しない場合に既定で使う言語。
+defaultContentLanguage = "ja"
+
+# true にすると既定言語（ja）も他言語（en）と同様に "/ja/" 配下に配信され、
+# ルート "/" 直下には既定言語向けのページが生成されなくなる。
+# 山肩先生の指摘により、公開前の今のうちに ja/en の URL 構造を対称にするため
+# この設定にする。
+defaultContentLanguageInSubdir = true
+
+# robots.txt を出力しない設定を明示する。
+# 理由: テーマ側 config/_default/hugo.toml の [outputs] で
+# home = ["HTML", "RSS", "JSON"] と定義されており ROBOTSTXT が含まれていない。
+# サイト側で [outputs] を独自定義していないためテーマの値がそのまま使われ、
+# enableRobotsTXT の値に関わらず robots.txt は生成されない
+# （enableRobotsTXT = true を明示して `hugo --minify` した場合でも
+# public/robots.txt が生成されないことを実測で確認済み）。
+# この設定は「意図して無効にしている」ことを明示するために書いており、
+# 将来 [outputs] 側で ROBOTSTXT を追加しても robots.txt が生成されない
+# ようにする歯止めも兼ねる。
+enableRobotsTXT = false
+
+
+# tags は使わず categories のみ有効化する。
+# テーマ既定（module 側 config/_default/hugo.toml）は
+# tag/category/author/series の4つを定義しているが、サイト側で
+# [taxonomies] を定義すると値ごと上書きされ、ここに書いた category だけが
+# 有効になる（実際に `hugo --minify` で public/tags/ が生成されないこと、
+# public/categories/ が生成されることを確認済み）。
+[taxonomies]
+  category = "categories"
+
+[module]
+  # Blowfish v3.5.0 が要求する Hugo extended の最小バージョン。
+  # テーマ本体の config.toml ([module.hugoVersion]) で min = "0.162.0" が
+  # 指定されているため、サイト側にも明示し、古い Hugo でビルドした場合に
+  # エラーとして検知できるようにする。
+  [module.hugoVersion]
+    extended = true
+    min = "0.162.0"

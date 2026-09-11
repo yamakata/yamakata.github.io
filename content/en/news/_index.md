@@ -1,10 +1,6 @@
 ---
 title: "News"
-date: 2026-09-04
+date: 2026-09-11
 draft: false
 weight: 40
 ---
-
-## News
-
-TODO(confirm): The news list is under preparation.

@@ -260,11 +260,40 @@ def ordered_entry(entry):
     return {k: entry[k] for k in FIELD_ORDER}
 
 
+def load_previous_suggested_links(path):
+    """前回出力のYAMLから、id別の suggested リンクを取り出す。
+
+    このスクリプトはTSVだけから毎回全件を作り直すため、そのままでは
+    enrich_publication_links.py が付け足した suggested リンクを
+    上書きで消してしまう。id(TSVの行内容から決まる安定なキー)を頼りに
+    既存の suggested リンクだけを引き継ぐことで、その事故を防ぐ。
+    """
+    if not path.exists():
+        return {}
+    try:
+        previous = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    except yaml.YAMLError:
+        return {}
+    result = {}
+    for e in previous.get("entries", []):
+        suggested = [l for l in e.get("links", []) if l.get("origin") == "suggested"]
+        if suggested:
+            result[e["id"]] = suggested
+    return result
+
+
 def main():
     import_rows = read_tsv(SOURCE_TSV)
     add_rows = read_tsv(ADD_TSV)
+    previous_suggested = load_previous_suggested_links(OUT_YAML)
 
     entries = build_entries(import_rows, "import") + build_entries(add_rows, "add")
+
+    for e in entries:
+        for link in previous_suggested.get(e["id"], []):
+            if link["url"] not in {l["url"] for l in e["links"]}:
+                e["links"].append(link)
+
     ordered = [ordered_entry(e) for e in entries]
 
     OUT_YAML.parent.mkdir(parents=True, exist_ok=True)

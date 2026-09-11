@@ -84,7 +84,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1587/transinf.2018edl8183
+    origin: suggested
   flags: []
 - id: journal-2017-d5f651
   source: import
@@ -95,7 +97,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1527/tjsai.wii-f
+    origin: suggested
   flags: []
 - id: journal-2017-dafff4
   source: import
@@ -139,7 +143,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1007/978-3-319-48532-4_12
+    origin: suggested
   flags: []
 - id: journal-2015-aa5a39
   source: import
@@ -205,7 +211,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1250/ast.33.11
+    origin: suggested
   flags: []
 - id: journal-2011-6368d6
   source: import
@@ -249,7 +257,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/icassp.2008.4517615
+    origin: suggested
   flags: []
 - id: journal-2008-226b52
   source: import
@@ -260,7 +270,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1093/ietfec/e91-a.6.1310
+    origin: suggested
   flags: []
 - id: journal-2007-b8e5c0
   source: import
@@ -304,7 +316,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1016/j.ins.2006.03.021
+    origin: suggested
   flags: []
 - id: journal-2004-626e2c
   source: import
@@ -619,7 +633,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.5244/c.35.230
+    origin: suggested
   flags: []
 - id: intl_conf-2021-424648
   source: import
@@ -709,7 +725,9 @@ entries:
   refereed: null
   awards:
   - Best Paper Award
-  links: []
+  links:
+  - url: https://doi.org/10.1145/3326458.3326928
+    origin: suggested
   flags: []
 - id: intl_conf-2019-5d3b43
   source: import
@@ -733,7 +751,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/bigdata.2018.8622382
+    origin: suggested
   flags: []
 - id: intl_conf-2018-705bc7
   source: import
@@ -767,7 +787,9 @@ entries:
   refereed: true
   awards:
   - CEA2017 Best Paper Award
-  links: []
+  links:
+  - url: https://doi.org/10.1145/3106668.3106672
+    origin: suggested
   flags: []
 - id: intl_conf-2016-4bfae5
   source: import
@@ -778,7 +800,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/icmew.2016.7574705
+    origin: suggested
   flags: []
 - id: intl_conf-2016-a4e758
   source: import
@@ -800,7 +824,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1007/978-3-319-48532-4_12
+    origin: suggested
   flags: []
 - id: intl_conf-2015-d2cd7f
   source: import
@@ -812,7 +838,9 @@ entries:
   refereed: true
   awards:
   - CEA2015 Recognition of merit
-  links: []
+  links:
+  - url: https://doi.org/10.1109/icmew.2015.7169785
+    origin: suggested
   flags: []
 - id: intl_conf-2015-dc100f
   source: import
@@ -823,7 +851,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1007/978-981-10-0515-2_11
+    origin: suggested
   flags: []
 - id: intl_conf-2014-27d46a
   source: import
@@ -834,7 +864,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1145/2638728.2641327
+    origin: suggested
   flags: []
 - id: intl_conf-2014-ce7447
   source: import
@@ -845,7 +877,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1145/2638728.2641337
+    origin: suggested
   flags: []
 - id: intl_conf-2014-13b6e6
   source: import
@@ -867,7 +901,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.3115/v1/w14-4418
+    origin: suggested
   flags: []
 - id: intl_conf-2014-52bd16
   source: import
@@ -878,7 +914,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.63317/5gpnteuutj4x
+    origin: suggested
   flags: []
 - id: intl_conf-2013-a5f31e
   source: import
@@ -889,7 +927,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1007/978-3-319-03260-3_21
+    origin: suggested
   flags: []
 - id: intl_conf-2013-9ffb7c
   source: import
@@ -922,7 +962,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/fgct.2012.6476591
+    origin: suggested
   flags: []
 - id: intl_conf-2012-547b17
   source: import
@@ -934,7 +976,9 @@ entries:
   refereed: true
   awards:
   - CEA’12 Best Paper Award
-  links: []
+  links:
+  - url: https://doi.org/10.1145/2390776.2390780
+    origin: suggested
   flags: []
 - id: intl_conf-2011-bc0fde
   source: import
@@ -945,7 +989,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/ism.2011.69
+    origin: suggested
   flags: []
 - id: intl_conf-2010-146fcc
   source: import
@@ -956,7 +1002,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/iucs.2010.5666226
+    origin: suggested
   flags: []
 - id: intl_conf-2010-0067b2
   source: import
@@ -967,7 +1015,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/ism.2010.48
+    origin: suggested
   flags: []
 - id: intl_conf-2009-b086bc
   source: import
@@ -978,7 +1028,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1145/1667780.1667825
+    origin: suggested
   flags: []
 - id: intl_conf-2009-1dce63
   source: import
@@ -989,7 +1041,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1145/1630995.1630997
+    origin: suggested
   flags: []
 - id: intl_conf-2009-866286
   source: import
@@ -1011,7 +1065,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/3dtv.2009.5069683
+    origin: suggested
   flags: []
 - id: intl_conf-2009-b99305
   source: import
@@ -1022,7 +1078,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/icassp.2009.4959574
+    origin: suggested
   flags: []
 - id: intl_conf-2008-fa956b
   source: import
@@ -1033,7 +1091,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/isuc.2008.35
+    origin: suggested
   flags: []
 - id: intl_conf-2008-89802a
   source: import
@@ -1044,7 +1104,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1145/1400885.1400991
+    origin: suggested
   flags: []
 - id: intl_conf-2008-7690ee
   source: import
@@ -1077,7 +1139,9 @@ entries:
   doi: null
   refereed: false
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1121/1.2934940
+    origin: suggested
   flags: []
 - id: intl_conf-2008-ac6afd
   source: import
@@ -1088,7 +1152,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1121/1.2935167
+    origin: suggested
   flags: []
 - id: intl_conf-2008-581ef4
   source: import
@@ -1099,7 +1165,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1121/1.2934940
+    origin: suggested
   flags: []
 - id: intl_conf-2008-34f9c6
   source: import
@@ -1110,7 +1178,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1121/1.2934941
+    origin: suggested
   flags: []
 - id: intl_conf-2008-e948c2
   source: import
@@ -1132,7 +1202,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1109/icassp.2008.4517615
+    origin: suggested
   flags: []
 - id: intl_conf-2005-67c73e
   source: import
@@ -1143,7 +1215,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1007/11558637_15
+    origin: suggested
   flags: []
 - id: intl_conf-2003-4eb4bd
   source: import
@@ -1154,7 +1228,9 @@ entries:
   doi: null
   refereed: null
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.1007/978-3-540-45226-3_149
+    origin: suggested
   flags: []
 - id: intl_conf-2002-e05483
   source: import
@@ -1165,7 +1241,9 @@ entries:
   doi: null
   refereed: true
   awards: []
-  links: []
+  links:
+  - url: https://doi.org/10.21437/icslp.2002-114
+    origin: suggested
   flags: []
 - id: intl_conf-2002-900670
   source: import

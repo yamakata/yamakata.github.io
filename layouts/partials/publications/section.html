@@ -1,0 +1,23 @@
+{{/*
+  1種別分の節を描画する。
+  引数: .type (例 "journal"), .entries (data/publications.yaml の entries 全件)
+  節内は年の降順。件数は渡された entries から実際に数えた値を使う（決め打ちしない）。
+*/}}
+{{ $type := .type }}
+{{ $filtered := where .entries "type" $type }}
+{{ $sorted := sort $filtered "year" "desc" }}
+
+<section id="pub-{{ $type }}" class="prose max-w-full dark:prose-invert scroll-mt-24">
+  <h2 class="text-2xl font-bold">
+    {{ i18n (printf "publications.%s" $type) }}
+    <span class="text-base font-normal text-neutral-500 dark:text-neutral-400">（{{ len $sorted }}）</span>
+  </h2>
+
+  {{ if $sorted }}
+    <ol class="space-y-4">
+      {{ range $sorted }}
+        {{ partial "publications/entry.html" . }}
+      {{ end }}
+    </ol>
+  {{ end }}
+</section>

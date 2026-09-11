@@ -1,0 +1,44 @@
+{{/*
+  publications セクション専用の一覧テンプレート。
+
+  テーマの layouts/_default/list.html は「子ページが無いセクションでは
+  何も表示しない」実装になっている（.Pages が空だと no_articles メッセージのみ）。
+  publications は子ページを作らず data/publications.yaml から描画するため、
+  ヘッダ部分の構成だけテーマに合わせて踏襲し、本文以降は独自に実装する。
+  テーマ本体（_default/list.html）は変更しない。
+*/}}
+{{ define "main" }}
+  <header>
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+      {{ .Title | emojify }}
+    </h1>
+  </header>
+
+  <section class="mt-8 prose max-w-full dark:prose-invert">
+    {{ .Content }}
+  </section>
+
+  {{ $entries := hugo.Data.publications.entries }}
+  {{ $types := slice "journal" "intl_conf" "review" "invited_talk" "survey" "domestic" }}
+
+  {{/* ページ先頭のジャンプリンク */}}
+  <nav class="mt-8 mb-10 prose max-w-full dark:prose-invert" aria-label="{{ i18n "publications.on_this_page" }}">
+    <p class="font-bold">{{ i18n "publications.on_this_page" }}</p>
+    <ul>
+      {{ range $types }}
+        {{ $type := . }}
+        {{ $count := 0 }}
+        {{ range $entries }}
+          {{ if eq .type $type }}{{ $count = add $count 1 }}{{ end }}
+        {{ end }}
+        <li><a href="#pub-{{ $type }}">{{ i18n (printf "publications.%s" $type) }}（{{ $count }}）</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+
+  <div class="space-y-12">
+    {{ range $types }}
+      {{ partial "publications/section.html" (dict "type" . "entries" $entries) }}
+    {{ end }}
+  </div>
+{{ end }}

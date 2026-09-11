@@ -5,6 +5,4 @@ draft: false
 weight: 30
 ---
 
-## Publications
-
-TODO(confirm): The publication list is under preparation.
+This is the laboratory's publication list. Sections follow the original ordering (Ⅰ → Ⅱ → Ⅲ. Review Articles → Invited Talks → Survey → Ⅳ), and entries within each section are sorted by year in descending order.

@@ -1,0 +1,2392 @@
+entries:
+- id: journal-2026-d7d09a
+  source: import
+  source_line: 1
+  type: journal
+  year: 2026
+  raw: 'Sunto, Akiko, Kiyoharu Aizawa, Yoko Yamakata, Ayaka Iida, and Shihoko Suzuki. 2026. "Agreement Between an Artificial Intelligence-Based Meal Image Recognition System and the Weighed Dietary Record for Estimating Energy and Nutrient Intakes" Nutrients 18, no. 6: 980. https://doi.org/10.3390/nu18060980'
+  doi: 10.3390/nu18060980
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.3390/nu18060980
+    origin: existing
+  flags: []
+- id: journal-2026-2bcb6a
+  source: import
+  source_line: 2
+  type: journal
+  year: 2026
+  raw: 'Akitsu, Yutaka, Yoko Yamakata, and Eiji Yamasue. 2026. "Developing an Empirical Theory of Planned Behavior Model of Healthy Dietary Choice and Evaluating Gamified Feedback Among Japanese Young Adults" Nutrients 18, no. 4: 686. https://doi.org/10.3390/nu18040686'
+  doi: 10.3390/nu18040686
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.3390/nu18040686
+    origin: existing
+  flags: []
+- id: journal-2025-636dce
+  source: import
+  source_line: 3
+  type: journal
+  year: 2025
+  raw: Tomomi NAGAHATA, Maki IGARASHI, Yuko MEKATA, Yuki KOKUBO, Naoki TAKAYANAGI, Noriko SUZUKI-KEMURIYAMA, Haruhide UDAGAWA, Sosuke AMANO, Kiyoharu AIZAWA, Yoko YAMAKATA, Hisanori KATO, "Validity of Digital Photographic Images for Dietary Assessment of Participants with Low Frequency of Home-Made Meal Intake," Journal of Nutritional Science and Vitaminology, Vol. 71, Issue 4, pps 349-356, https://doi.org/10.3177/jnsv.71.349, 2025.
+  doi: 10.3177/jnsv.71.349
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.3177/jnsv.71.349
+    origin: existing
+  flags: []
+- id: journal-2025-f54ea1
+  source: import
+  source_line: 4
+  type: journal
+  year: 2025
+  raw: 'Yixin Zhang, Yoko Yamakata, Keishi Tajima, "SARI: A Stage-aware Recognition Method for Ingredients Changing Appearance in Cooking Image Sequences," Journal of Information Processing, Vol. 33, pp. 104-114, https://doi.org/10.2197/ipsjjip.33.104, 2025.'
+  doi: 10.2197/ipsjjip.33.104
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.2197/ipsjjip.33.104
+    origin: existing
+  flags: []
+- id: journal-2022-447ef8
+  source: import
+  source_line: 5
+  type: journal
+  year: 2022
+  raw: 香川璃奈, 原 悠輔, 姜 志勲, 山肩洋子, "付加的な説明文の生成と提示による料理レシピ執筆支援手法の提案と評価," 電子情報通信学会 和文論文誌D, Vol.J105-D,No.12,pp.-,Dec. 2022.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2021-16c209
+  source: import
+  source_line: 6
+  type: journal
+  year: 2021
+  raw: 'T. Nishimura, A. Hashimoto, Y. Ushiku, H. Kameko, Y. Yamakata and S. Mori, "Structure-Aware Procedural Text Generation From an Image Sequence," in IEEE Access, vol. 9, pp. 2125-2141, 2021, doi: 10.1109/ACCESS.2020.3043452.'
+  doi: 10.1109/ACCESS.2020.3043452
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1109/ACCESS.2020.3043452
+    origin: derived
+  flags: []
+- id: journal-2019-2a9c7b
+  source: import
+  source_line: 7
+  type: journal
+  year: 2019
+  raw: Masashi ANZAWA, Sosuke AMANO, Yoko YAMAKATA, Keiko MOTONAGA, Akiko KAMEI, Kiyoharu AIZAWA, "Recognition of Multiple Food Items in A Single Photo for Use in A Buffet-Style Restaurant", IEICE Transactions on Information and Systems, Volume E102.D Issue 2 Pages 410-414, 2019 (Letter)
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2017-d5f651
+  source: import
+  source_line: 8
+  type: journal
+  year: 2017
+  raw: Yoko Yamakata, Hirokuni Maeta, Takuya Kadowaki, Tetsuro Sasada, Shinji Imahori, Shinsuke Mori, "Cooking Recipe Search by Pairs of Ingredient and Action - Word Sequence v.s. Flow-graph Representation", Transactions of the Japanese Society for Artificial Intelligence, Vol.32, No. 1, WII-F, pp.1-9, 2017.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2017-dafff4
+  source: import
+  source_line: 9
+  type: journal
+  year: 2017
+  raw: 前田 浩邦, 山肩 洋子, 森 信介,“手順文書からの意味構造抽出”, 人工知能学会論文誌, Vol.32, No. 1 E, pp.1-8, 2017.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2016-424704
+  source: import
+  source_line: 10
+  type: journal
+  year: 2016
+  raw: 山肩 洋子，今堀 慎治，森 信介，田中 克己，“ワークフロー表現を用いたレシピの典型性評価と典型的なレシピの生成”，電子情報通信学会論文誌D，Vol.J99-D, No.4, pp. 378-391, 2016.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2016-c5989d
+  source: import
+  source_line: 11
+  type: journal
+  year: 2016
+  raw: 山崎 健史，吉野 幸一郎，前田 浩邦，笹田 鉄郎，橋本 敦史，舩冨 卓哉，山肩 洋子、森 信介，“フローグラフからの手順書の生成”，情報処理学会論文誌, Vol. 57, No.3, pp. 849-862, 2016.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2016-c9ad80
+  source: import
+  source_line: 12
+  type: journal
+  year: 2016
+  raw: Shinji Imahori, Shizuka Kawade, Yoko Yamakata, “Escher-Like Tilings with Weights,” in Post-Conference Proceedings of JCDCG2 2015, Lecture Notes in Computer Science (LNCS), Vol. 9943, pp. 132 - 142, 2016.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2015-aa5a39
+  source: import
+  source_line: 13
+  type: journal
+  year: 2015
+  raw: 笹田鉄郎，森信介，山肩洋子，前田浩邦，河原達也，“レシピ用語の定義とその自動認識のためのタグ付与コーパスの構築,”自然言語処理，Vol.22，No.2，pp.107-131, 2015.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2014-c4d07f
+  source: import
+  source_line: 14
+  type: journal
+  year: 2014
+  raw: 門脇拓也，山肩洋子，森信介，田中克己, “誕生・使用事由によるレシピ検索～生い立ちレシピサーチ～,” 日本データベース学会和文論文誌, Vol. 13-J, No. 1, pp.78-85, 2014.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2014-6bd6ae
+  source: import
+  source_line: 15
+  type: journal
+  year: 2014
+  raw: 井上仁, 橋本敦史, 中村和晃, 舩冨卓哉, 山肩洋子, 上田真由美, 美濃導彦, “食材認識のための画像と食材切断時の振動音及び荷重の利用,” 電子情報通信学会論文誌, Vol. J97-D, No.9, pp.1490-1502, 2014.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2013-2f3ae4
+  source: import
+  source_line: 16
+  type: journal
+  year: 2013
+  raw: Hidenori Tsuji, Yoko Yamakata, Takuya Funatomi, Hiromi Hiramatsu, Shinsuke Mori, “A Platform for Facilitating Video-based Cooking Communication by Multimedia Technologies,” Journal of Multimedia Processing and Technologies, Vol. 3 , Issue 2, pp. 81-101, 2013.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2012-419b31
+  source: import
+  source_line: 17
+  type: journal
+  year: 2012
+  raw: 稲葉利江子, 山肩洋子, 大山牧子, 村上正行, “発言の自由度を高めたレスポンスアナライザを活用した大学授業の実践と評価,” 日本教育工学会論文誌, 36巻, 3号, pp.271-279 , 2012.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2012-9d3961
+  source: import
+  source_line: 18
+  type: journal
+  year: 2012
+  raw: Toshiyuki Kimura, Yoko Yamakata, Michiaki Katsumoto, Takuma Okamoto, Satoshi Yairi, Yukio Iwaya, Yo-iti Suzuki, “Three-dimensional Radiated Sound Field Display System Using Directional Loudspeakers and Wave Field Synthesis,” Acoustical Science and Technology, Vol. 33, No. 1, pp. 11-20, 2012.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2011-6368d6
+  source: import
+  source_line: 19
+  type: journal
+  year: 2011
+  raw: 山肩洋子, 角所考, 美濃導彦, “呼称により指示された中間食材を同定するための画像認識モデルおよび呼称解釈法の提案,” 電子情報通信学会論文誌, Vol.J94-A, No.7, pp. 519-531, 2011.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2011-0d44be
+  source: import
+  source_line: 20
+  type: journal
+  year: 2011
+  raw: 橋本敦史, 森直幸, 舩冨卓哉, 山肩洋子, 椋木雅之, 角所考, 美濃導彦, “把持の順序と外見の変化モデルを利用した調理作業における食材追跡,” 電子情報通信学会論文誌, Vol.J94-A, No.7, pp.509-518, 2011.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2011-cef68d
+  source: import
+  source_line: 21
+  type: journal
+  year: 2011
+  raw: 山肩洋子, 西村竜一, 勝本道哲, 木村敏幸, “マルチチャネル球形スピーカアレーによる楽器放射指向性の再現,” 電子情報通信学会論文誌, Vol. J94-A, No. 4, pp. 233-242, 2011.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2009-40ba5e
+  source: import
+  source_line: 22
+  type: journal
+  year: 2009
+  raw: Yoko Yamakata, Michiaki Katsumoto, Toshiyuki Kimura, “Directional Sound Radiation System Using a Large Planar Diaphragm Incorporating Multiple Vibrators,” IEICE transactions on Fundamentals of Electronic, Communications and Computer Sciences, Vol.E92-A, No.6, pp.1399-1407, 2009.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2008-226b52
+  source: import
+  source_line: 23
+  type: journal
+  year: 2008
+  raw: Toshiyuki Kimura, Yoko Yamakata, Michiaki Katsumoto, Kazuhiko Kakehi, “Localization Model of Synthesized Sound Image Using Precedence Effect in Sound Field Reproduction Based on Wave Field Synthesis,” IEICE transactions on Fundamentals of Electronic, Communications and Computer Sciences, Vol.E91-A, No.6, pp.1310-1319, 2008.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2007-b8e5c0
+  source: import
+  source_line: 24
+  type: journal
+  year: 2007
+  raw: 山肩洋子, 角所 考, 美濃導彦, “調理コンテンツの自動作成のためのレシピテキストと調理観測映像の対応付け,” 電子情報通信学会論文誌, Vol. J90-D No.10, pp.2817-2829, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2007-bbd83d
+  source: import
+  source_line: 25
+  type: journal
+  year: 2007
+  raw: 山肩洋子, 尾原秀登, 沢田篤史, 角所考, 美濃導彦, “食材に視覚的特徴変化を生じさせる加工における食材と加工動作の同時認識,” 電子情報通信学会論文誌, Vol.J90-D No.9 pp.2550-2561, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2007-9bc91f
+  source: import
+  source_line: 26
+  type: journal
+  year: 2007
+  raw: 長光左千男, 野田真樹子, 山肩洋子, 中村裕一, 美濃導彦, “ユーザの性格に応じた調理アドバイス文章の選択,” 情報処理学会論文誌 和文Ｄ, Vol.48 No.2 pp.701-710, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2007-b86b33
+  source: import
+  source_line: 27
+  type: journal
+  year: 2007
+  raw: Anca L. Ralescu, Dan A. Ralescu, and Yoko Yamakata, “Inference by Aggregation of Evidence with Applications to Fuzzy Probabilities,” Information Sciences, Vol. 177, Issue 2, pp. 378–387, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: journal-2004-626e2c
+  source: import
+  source_line: 28
+  type: journal
+  year: 2004
+  raw: 山肩洋子, 河原達也, 奥乃博, 美濃導彦, “音声対話システムにおける物体指示のための信念ネットワークを用いた曖昧性の解消,” 人工知能学会誌 Vol.19, No.1 F, pp.47-56, 2004.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2026-03c410
+  source: import
+  source_line: 29
+  type: intl_conf
+  year: 2026
+  raw: 'Shirai, Keisuke, et al.. "JFC-Recipe: A Dataset for Nutrient Estimation from Japanese User-Generated Cooking Recipes." Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026), European Language Resources Association (ELRA), 2026, pp. 6349-6360. https://doi.org/10.63317/42sopxjrdzsf.'
+  doi: 10.63317/42sopxjrdzsf
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.63317/42sopxjrdzsf
+    origin: existing
+  flags: []
+- id: intl_conf-2026-dcb798
+  source: import
+  source_line: 30
+  type: intl_conf
+  year: 2026
+  raw: Jeonghun Baek, Tetsuro Yamazaki, Akimasa Morihata, Junichiro Mori, Yoko Yamakata, Kenjiro Taura, and Shigeru Chiba. 2026. LLM-Based Explainable Detection of LLM-Generated Code in Python Programming Courses. In Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.1 (SIGCSE TS 2026), Vol. 1. Association for Computing Machinery, New York, NY, USA, 80–86. https://doi.org/10.1145/3770762.3772605
+  doi: 10.1145/3770762.3772605
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3770762.3772605
+    origin: existing
+  flags: []
+- id: intl_conf-2026-30fbae
+  source: import
+  source_line: 31
+  type: intl_conf
+  year: 2026
+  raw: 'Jeonghun Baek, Tetsuro Yamazaki, Akimasa Morihata, Junichiro Mori, Yoko Yamakata, Kenjiro Taura, and Shigeru Chiba. 2026. MaskingAgent: Preventing LLM Tutor from Providing Full Solutions in Python Programming Courses. In Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2 (SIGCSE TS 2026), Vol. 2. Association for Computing Machinery, New York, NY, USA, 1227–1228. https://doi.org/10.1145/3770761.3777255'
+  doi: 10.1145/3770761.3777255
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3770761.3777255
+    origin: derived
+  flags: []
+- id: intl_conf-2025-28bc65
+  source: import
+  source_line: 32
+  type: intl_conf
+  year: 2025
+  raw: Mashiro Toyooka, Kiyoharu Aizawa, Yoko Yamakata, "A Highly Clean Recipe Dataset with Ingredient States Annotation for State Probing Task," ACM Multimedia 2025, , pp. 748-756, https://doi.org/10.1145/3746027.3755771, 2025.
+  doi: 10.1145/3746027.3755771
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3746027.3755771
+    origin: existing
+  flags: []
+- id: intl_conf-2025-8e5134
+  source: import
+  source_line: 33
+  type: intl_conf
+  year: 2025
+  raw: 'Mitsuki Watanabe, Sosuke Amano, Kiyoharu Aizawa, Yoko Yamakata, "FoodLogAthl-218: Constructing a Real-World Food Image Dataset Using Dietary Management Applications," ACM Multimedia 2025, pp. 13206-13212, https://doi.org/10.1145/3746027.3758276, 2025.'
+  doi: 10.1145/3746027.3758276
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3746027.3758276
+    origin: existing
+  flags: []
+- id: intl_conf-2025-99b780
+  source: import
+  source_line: 34
+  type: intl_conf
+  year: 2025
+  raw: Satayu Parinayok, Shin'ichi Satoh, Kiyoharu Aizawa, Yoko Yamakata, "Redefining Image-to-Recipe Retrieval with Nutritional and Ingredient Similarity," IEEE International Conference on Multimedia & Expo 2025 (ICME2025), Nantes, France, from June 30 to July 4, https://doi.ieeecomputersociety.org/10.1109/ICME59968.2025.11209424, 2025.
+  doi: 10.1109/ICME59968.2025.11209424
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.ieeecomputersociety.org/10.1109/ICME59968.2025.11209424
+    origin: existing
+  - url: https://doi.org/10.1109/ICME59968.2025.11209424
+    origin: derived
+  flags: []
+- id: intl_conf-2025-677f9e
+  source: import
+  source_line: 35
+  type: intl_conf
+  year: 2025
+  raw: Jeonghun Baek, Tetsuro Yamazaki, Akimasa Morihata, Junichiro Mori, Yoko Yamakata, Kenjiro Taura, and Shigeru Chiba. 2025. Leveraging LLM for Detecting and Explaining LLM-generated Code in Python Programming Courses. In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSETS 2025). Association for Computing Machinery, New York, NY, USA, 1369–1370. https://doi.org/10.1145/3641555.3705212
+  doi: 10.1145/3641555.3705212
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3641555.3705212
+    origin: existing
+  flags: []
+- id: intl_conf-2025-9d2205
+  source: import
+  source_line: 36
+  type: intl_conf
+  year: 2025
+  raw: 'Yuki Imajuku, Yoko Yamakata, and Kiyoharu Aizawa. 2025. FoodMLLM-JP: Leveraging Multimodal Large Language Models for&nbsp;Japanese Recipe Generation. In MultiMedia Modeling: 31st International Conference on Multimedia Modeling, MMM 2025, Nara, Japan, January 8–10, 2025, Proceedings, Part I. Springer-Verlag, Berlin, Heidelberg, 401–414. https://doi.org/10.1007/978-981-96-2054-8_30'
+  doi: 10.1007/978-981-96-2054-8_30
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1007/978-981-96-2054-8_30
+    origin: existing
+  flags: []
+- id: intl_conf-2024-acb68b
+  source: import
+  source_line: 37
+  type: intl_conf
+  year: 2024
+  raw: Yixin Zhang, Yoko Yamakata, and Keishi Tajima, "Adaptive Feature Inheritance and Thresholding for Ingredient Recognition in Multimedia Cooking Instructions," In Proceedings of the 6th ACM International Conference on Multimedia in Asia (MMAsia '24). Association for Computing Machinery, New York, NY, USA, Article 94, pp. 1–7. https://doi.org/10.1145/3696409.3700256, 2024
+  doi: 10.1145/3696409.3700256
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3696409.3700256
+    origin: existing
+  flags: []
+- id: intl_conf-2024-59579c
+  source: import
+  source_line: 38
+  type: intl_conf
+  year: 2024
+  raw: 'Rina Kagawa, Masaki Matsubara, Rei Miyata, Takuya Matsuzaki, Yukino Baba and Yoko Yamakata, "An Experimental Framework for Designing Document Structure for Users’ Decision Making: An Empirical Study of Recipes," ICADL 2024. Lecture Notes in Computer Science, vol 15493. Springer, Singapore. https://doi.org/10.1007/978-981-96-0865-2_6, 2024.'
+  doi: 10.1007/978-981-96-0865-2_6
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1007/978-981-96-0865-2_6
+    origin: existing
+  flags: []
+- id: intl_conf-2024-dad68f
+  source: import
+  source_line: 39
+  type: intl_conf
+  year: 2024
+  raw: 'Liangyu Wang, Yoko Yamakata, Ryoma Maeda, and Kiyoharu Aizawa, "Measure and Improve Your Food: Ingredient Estimation Based Nutrition Calculator," In Proceedings of the 32nd ACM International Conference on Multimedia (MM ''24). Association for Computing Machinery, New York, NY, USA, pp. 11273–11275, https://doi.org/10.1145/3664647.3684997, 2024.'
+  doi: 10.1145/3664647.3684997
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3664647.3684997
+    origin: existing
+  flags: []
+- id: intl_conf-2024-91ed29
+  source: import
+  source_line: 40
+  type: intl_conf
+  year: 2024
+  raw: Tetsuya Sasaoka, Yoko Yamakata, Keishi Tajima, "Search Result Presentation for Non-Native Language Documents Companion," Proc. of 29th ACM International Conference on Intelligent User Interfaces, pp.89-94, https://doi.org/10.1145/3640544.3645224, ACM Press, March 2024.
+  doi: 10.1145/3640544.3645224
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3640544.3645224
+    origin: existing
+  flags: []
+- id: intl_conf-2023-f1ee5d
+  source: import
+  source_line: 41
+  type: intl_conf
+  year: 2023
+  raw: Satayu Parinayok, Yoko Yamakata, and Kiyoharu Aizawa. 2023. Open-Vocabulary Segmentation Approach for Transformer-Based Food Nutrient Estimation. In Proceedings of the 5th ACM International Conference on Multimedia in Asia (MMAsia '23). Association for Computing Machinery, New York, NY, USA, Article 78, 1–7. https://doi.org/10.1145/3595916.3626452
+  doi: 10.1145/3595916.3626452
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3595916.3626452
+    origin: existing
+  flags: []
+- id: intl_conf-2023-96ad48
+  source: import
+  source_line: 42
+  type: intl_conf
+  year: 2023
+  raw: Liangyu Wang, Yoko Yamakata, and Kiyoharu Aizawa. 2023 Automatic Dataset Creation from User-generated Recipes for Ingredient-centric Food Image Analysis. In Proceedings of the 5th ACM International Conference on Multimedia in Asia (MMAsia '23). Association for Computing Machinery, New York, NY, USA, Article 101, 1–5. https://doi.org/10.1145/3595916.3626748
+  doi: 10.1145/3595916.3626748
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3595916.3626748
+    origin: existing
+  flags:
+  - manual_text_correction
+- id: intl_conf-2023-2f50cb
+  source: import
+  source_line: 43
+  type: intl_conf
+  year: 2023
+  raw: 'Junbin Xiao, Yoko Yamakata, Takeshi Komai, Kazuyo Matsubae, "Utilization of Machine Learning for Satellite Image Analysis: the Land Use Change Induced by Copper Mining", 11th International Conference on Industrial Ecology (ISIE2023), Leiden, Netherland, 02 - 05 July 2023.'
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2022-a887e8
+  source: import
+  source_line: 44
+  type: intl_conf
+  year: 2022
+  raw: 'Ruide Li, Yoko Yamakata, and Keishi Tajima, "Active Learning Strategies Based on Text Informativeness," 2022 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT), Niagara Falls, ON, Canada, 2022, pp. 32-39, doi: 10.1109/WI-IAT55865.2022.00015.'
+  doi: 10.1109/WI-IAT55865.2022.00015
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1109/WI-IAT55865.2022.00015
+    origin: derived
+  flags: []
+- id: intl_conf-2022-f27d55
+  source: import
+  source_line: 45
+  type: intl_conf
+  year: 2022
+  raw: 'Yoko Yamakata, Akihisa Ishino, Akiko Sunto, Sosuke Amano, Kiyoharu Aizawa, "Recipe-oriented Food Logging for Nutritional Management", ACM Multimedia, pp. 6898–6904, doi: https://doi.org/10.1145/3503161.3549203, October 2022. [pdf]'
+  doi: 10.1145/3503161.3549203
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3503161.3549203
+    origin: existing
+  - url: https://dl.acm.org/doi/abs/10.1145/3503161.3549203
+    origin: existing
+  flags:
+  - multiple_existing_links
+- id: intl_conf-2022-2300ff
+  source: import
+  source_line: 46
+  type: intl_conf
+  year: 2022
+  raw: Kei Nakamoto, Sosuke Amano, Hiroaki Karasawa, Yoko Yamakata, Kiyoharu Aizawa, "Prediction of mental state from food images," International Workshop on Multimedia for Cooking, Eating, and related APPlications in conjunction with ACMMM2022 (CEA++22), pp. 21–28, https://doi.org/10.1145/3552485.3554937, 2022.
+  doi: 10.1145/3552485.3554937
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3552485.3554937
+    origin: existing
+  flags: []
+- id: intl_conf-2022-d69c83
+  source: import
+  source_line: 47
+  type: intl_conf
+  year: 2022
+  raw: 'Rina Kagawa, Rei Miyata, Yoko Yamakata, ""Comparable Recipes": A construction and analysis of a dataset of recipes described by different people for the same dish", International Workshop on Multimedia for Cooking, Eating, and related APPlications in conjunction with ACMMM2022 (CEA++22), Short paper, pp. 41–44, https://doi.org/10.1145/3552485.3554936, 2022.'
+  doi: 10.1145/3552485.3554936
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3552485.3554936
+    origin: existing
+  flags: []
+- id: intl_conf-2022-d84241
+  source: import
+  source_line: 48
+  type: intl_conf
+  year: 2022
+  raw: 'Yixin Zhang, Yoko Yamakata, Keishi Tajima, "MIAIS: A Multimedia Recipe Dataset with Ingredient Annotation at Each Instructional Step", International Workshop on Multimedia for Cooking, Eating, and related APPlications in conjunction with ACMMM2022 (CEA++22), Short paper, pp. 49–52, https://doi.org/10.1145/3552485.3554938, 2022.'
+  doi: 10.1145/3552485.3554938
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3552485.3554938
+    origin: existing
+  flags: []
+- id: intl_conf-2022-e6a1d7
+  source: import
+  source_line: 49
+  type: intl_conf
+  year: 2022
+  raw: Akihisa Ishino, Yoko Yamakata, Kiyoharu Aizawa, "Recipe Recording by Duplicating and Editing Standard Recipe," International Workshop on Multimedia for Cooking, Eating, and related APPlications in conjunction with ACMMM2022 (CEA++22), Short paper, pp. 37–40https://doi.org/10.1145/3552485.3554942, 2022.
+  doi: 10.1145/3552485.3554942
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3552485.3554942
+    origin: existing
+  flags: []
+- id: intl_conf-2021-7e15f9
+  source: import
+  source_line: 50
+  type: intl_conf
+  year: 2021
+  raw: 'Yixin Zhang, Yoko Yamakata, and Keishi Tajima, "MIRecipe: A Recipe Dataset for Stage-Aware Recognition of Changes in Appearance of Ingredients," in ACM Multimedia Asia (MMAsia ''21), Article 16, 1–7. DOI:https://doi.org/10.1145/3469877.3490596, 2021. [Web]'
+  doi: 10.1145/3469877.3490596
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3469877.3490596
+    origin: existing
+  - url: https://dl.acm.org/doi/10.1145/3469877.3490596
+    origin: existing
+  flags:
+  - multiple_existing_links
+- id: intl_conf-2021-65f415
+  source: import
+  source_line: 51
+  type: intl_conf
+  year: 2021
+  raw: Jiafeng Mao, Qing Yu, Yoko Yamakata and Kiyoharu Aizawa, "Noisy Annotation Refinement for Object Detection", British Machine Vision Conference (BMVC), 2021.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2021-424648
+  source: import
+  source_line: 52
+  type: intl_conf
+  year: 2021
+  raw: Seum Kim, Yoko Yamakata, and Kiyoharu Aizawa, "Boosting Personalized Food Image Classifier by Sharing Food Records", ACM Multimedia Workshop on CEA (CEA '21), pp. 29–32. DOI:https://doi.org/10.1145/3463947.3469238, 2021.
+  doi: 10.1145/3463947.3469238
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3463947.3469238
+    origin: existing
+  flags: []
+- id: intl_conf-2021-65dca0
+  source: import
+  source_line: 53
+  type: intl_conf
+  year: 2021
+  raw: Ali Rostami, Zhouhang Xie, Akihisa Ishino, Yoko Yamakata, Kiyoharu Aizawa, and Ramesh Jain, "World Food Atlas Project," ACM Multimedia Workshop on CEA (CEA '21), pp. 33–36. DOI:https://doi.org/10.1145/3463947.3469235, 2021.
+  doi: 10.1145/3463947.3469235
+  refereed: null
+  awards: []
+  links:
+  - url: https://doi.org/10.1145/3463947.3469235
+    origin: existing
+  flags: []
+- id: intl_conf-2021-70ebda
+  source: import
+  source_line: 54
+  type: intl_conf
+  year: 2021
+  raw: 'Akihisa Ishino, Yoko Yamakata, Hiroaki Karasawa and Kiyoharu Aizawa, "RecipeLog: Recipe Authoring App for Accurate Food Recording", ACM Multimedia 2021, Technical Demo, pp. 2798-2800, 2021.'
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2021-22f3ba
+  source: import
+  source_line: 55
+  type: intl_conf
+  year: 2021
+  raw: 'Yixin Zhang, Yoko Yamakata, Keishi Tajima, "Supplementing Omitted Named Entities in Cooking Procedural Text with Attached Images", IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR2021), pp. 199-205, doi: 10.1109/MIPR51284.2021.00037., 2021. [Web]'
+  doi: 10.1109/MIPR51284.2021.00037
+  refereed: null
+  awards: []
+  links:
+  - url: https://mipr2021.org/pages/program/
+    origin: existing
+  - url: https://doi.org/10.1109/MIPR51284.2021.00037
+    origin: derived
+  flags: []
+- id: intl_conf-2020-b982e3
+  source: import
+  source_line: 56
+  type: intl_conf
+  year: 2020
+  raw: Yoko Yamakata, Shinsuke Mori and John Carroll, “English Recipe Flow Graph Corpus”, International Conference on Language Resources and Evaluation (LREC), pp. 5187–5194 , 2020 [Web]
+  doi: null
+  refereed: null
+  awards: []
+  links:
+  - url: https://www.aclweb.org/anthology/2020.lrec-1.638/
+    origin: existing
+  flags: []
+- id: intl_conf-2020-3b028d
+  source: import
+  source_line: 57
+  type: intl_conf
+  year: 2020
+  raw: Taichi Nishimura, Suzushi Tomori, Hayato Hashimoto, Atsushi Hashimoto, Yoko Yamakata, Jun Harashima, Yoshitaka Ushiku and Shinsuke Mori, “Visual Grounding Annotation of Recipe Flow Graph”, International Conference on Language Resources and Evaluation (LREC), pp. 4275–4284, 2020 [Web]
+  doi: null
+  refereed: null
+  awards: []
+  links:
+  - url: https://www.aclweb.org/anthology/2020.lrec-1.527/
+    origin: existing
+  flags: []
+- id: intl_conf-2019-2e50cd
+  source: import
+  source_line: 58
+  type: intl_conf
+  year: 2019
+  raw: Taichi Nishimura Atsushi Hashimoto, Yoko Yamakata, Shinsuke Mori, “Frame Selection for Producing Recipe with Pictures from an Execution Video of a Recipe”, CEA, pp 9–16 , 2019. (Best Paper Award)
+  doi: null
+  refereed: null
+  awards:
+  - Best Paper Award
+  links: []
+  flags: []
+- id: intl_conf-2019-5d3b43
+  source: import
+  source_line: 59
+  type: intl_conf
+  year: 2019
+  raw: Yixin Zhang, Yoko Yamakata, Keishi Tajima, “Categorization of Cooking Actions Based on Visual Similarity”, ACM Multimedia Workshop MADiMa, Pages 42–49, 2019. [Web]
+  doi: null
+  refereed: null
+  awards: []
+  links:
+  - url: https://dl.acm.org/doi/10.1145/3347448.3357165
+    origin: existing
+  flags: []
+- id: intl_conf-2018-5364bd
+  source: import
+  source_line: 60
+  type: intl_conf
+  year: 2018
+  raw: 'Yoko Yamakata, Keishi Tajima, and Shinsuke Mori, "A Case Study on Start-up of Dataset Construction: In Case of Recipe Named Entity Corpus ", The Second IEEE Workshop on Human-in-the-loop Methods and Human Machine Collaboration in BigData (IEEE HMData2018) co-located with IEEE Bigdata 2018 Seattle, Dec. 10th'
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2018-705bc7
+  source: import
+  source_line: 61
+  type: intl_conf
+  year: 2018
+  raw: 'Yuji Goda, Sosuke Amano, Yoko Yamakata, Kiyoharu Aizawa, "Bag-of-foods: analysis of personal foodlogging data", IJCAI Joint Workshop on Multimedia for Cooking and Eating Activities and Multimedia Assisted Dietary Management, pp.63-66, July 15 - 15, 2018, Stockholm, Sweden'
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2018-ac7f7e
+  source: import
+  source_line: 62
+  type: intl_conf
+  year: 2018
+  raw: 'Yoko Yamakata, Eiji Yamasue, Benjamin McLellan, Kiyoharu Aizawa, "Resource intensity for menu items: how much land is required to provide for each dish?", IJCAI Joint Workshop on Multimedia for Cooking and Eating Activities and Multimedia Assisted Dietary Management, pp.15-20, July 15 - 15, 2018, Stockholm, Sweden'
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2017-6b6f54
+  source: import
+  source_line: 63
+  type: intl_conf
+  year: 2017
+  raw: Yoko Yamakata, Shinsuke Mori, John Carroll, "A Comparison of Cooking Recipe Named Entities between Japanese and English," 9th Workshop on Multimedia for Cooking and Eating Activities (CEA2017), 2017 (CEA2017 Best Paper Award). 査読有り
+  doi: null
+  refereed: true
+  awards:
+  - CEA2017 Best Paper Award
+  links: []
+  flags: []
+- id: intl_conf-2016-4bfae5
+  source: import
+  source_line: 64
+  type: intl_conf
+  year: 2016
+  raw: Yoko Yamakata, Shinji Imahori, Hirokuni Maeta, Shinsuke Mori, "A Method for Extracting Major Workflow composed of Ingredients, Tools, and Actions from Cooking Procedural Text," 8th Workshop on Multimediafor Cooking and Eating Activities (CEA2016), 2016. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2016-a4e758
+  source: import
+  source_line: 65
+  type: intl_conf
+  year: 2016
+  raw: 'Atsushi Hashimoto, Jun Harashima, Yoko Yamakata, Shinsuke Mori, "Design in Everyday Cooking: Challenges for Assisting with Menu Planning and Food Preparation, HCII, the 18th International Conference on Human-Computer Interaction, 2016.'
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2015-900c96
+  source: import
+  source_line: 66
+  type: intl_conf
+  year: 2015
+  raw: Shinji Imahori, Shizuka Kawade, Yoko Yamakata, "Escher-Like Tilings with Weights," 18th Japan Conference on Discrete and Computational Geometry and Graphs, 2015. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2015-d2cd7f
+  source: import
+  source_line: 67
+  type: intl_conf
+  year: 2015
+  raw: Takuya Kadowaki, Yoko Yamakata, Katsumi Tanaka, "Situation-Based Food Recommendation for Yielding Good Results,”7th Workshop on Multimediafor Cooking and Eating Activities (CEA2015), Full presentation, proc. of ICME2015, 2015. (CEA2015 Recognition of merit) 査読有り
+  doi: null
+  refereed: true
+  awards:
+  - CEA2015 Recognition of merit
+  links: []
+  flags: []
+- id: intl_conf-2015-dc100f
+  source: import
+  source_line: 68
+  type: intl_conf
+  year: 2015
+  raw: Tetsuro Sasada, Shinsuke Mori, Tatsuya Kawahara and Yoko Yamakata, "Named Entity Recognizer Trainable from Partially Annotated Data," The 2015 Conference of the Pacific Association for Computational Linguistics (PACLING), 2015. 査読あり
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2014-27d46a
+  source: import
+  source_line: 69
+  type: intl_conf
+  year: 2014
+  raw: Takuya Kadowaki, Yoko Yamakata, Shinsuke Mori, Katsumi Tanaka, “Recipe Search for Blog-type Recipe Articles Based on a User’s Situation,” Workshop on Smart Technology for Cooking and Eating Activities (CEA2014), Full paper, UbiComp '14 Adjunct Proceedings, pp. 497-506, 2014. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2014-ce7447
+  source: import
+  source_line: 70
+  type: intl_conf
+  year: 2014
+  raw: Yoko Yamakata, Asuka Miyazawa, Atsushi Hashimoto, Takuya Funatomi, Michihiko Minoh, “A Method for Detecting Gaze-required action while Cooking for Assisting Video Communication,” Workshop on Smart Technology for Cooking and Eating Activities (CEA2014), Short paper, UbiComp '14 Adjunct Proceedings, pp. 577-582, 2014. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2014-13b6e6
+  source: import
+  source_line: 71
+  type: intl_conf
+  year: 2014
+  raw: 'Atsushi Hashimoto, Tetsuro Sasada, Yoko Yamakata, Shinsuke Mori, Michihiko Minoh, “KUSK Dataset: Toward a Direct Understanding of Recipe Text and Human Cooking Activity,“ Workshop on Smart Technology for Cooking and Eating Activities (CEA2014), Short paper, UbiComp ''14 Adjunct Proceedings, pp. 583-588, 2014. 査読有り.'
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2014-6e87ef
+  source: import
+  source_line: 72
+  type: intl_conf
+  year: 2014
+  raw: 'Shinsuke Mori, Hirokuni Maeta, Tetsuro Sasada, Koichiro Yoshino, Atsushi Hashimoto, Takuya Funatomi and Yoko Yamakata, “FlowGraph2Text: Automatic Sentence Skeleton Compilation for Procedural Text Generation,” INLG14, pp. 118-122, 2014. 査読有り'
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2014-52bd16
+  source: import
+  source_line: 73
+  type: intl_conf
+  year: 2014
+  raw: Shinsuke Mori, Hirokuni Maeta, Yoko Yamakata, Tetsuro Sasada, “Flow Graph Corpus from Recipe Texts,” The International Conference on Language Resources and Evaluation Conference (LREC2014), pp.2370-2377 2014. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2013-a5f31e
+  source: import
+  source_line: 74
+  type: intl_conf
+  year: 2013
+  raw: Yoko Yamakata, Shinji Imahori, Yuichi Sugiyama, Shinsuke Mori, and Katsumi Tanaka, “Feature Extraction and Summarization of Recipes Using Flow Graph,” SocInfo 2013, LNCS 8238, pp. 241–254, 2013. 査読有り (Full paper 採択率22%)
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2013-9ffb7c
+  source: import
+  source_line: 75
+  type: intl_conf
+  year: 2013
+  raw: R. López-García, M.P. Kato, Y. Yamakata, K. Tanaka, “How do Students Search during Class and Homework? - A query log analysis for academic purposes,” SocInfo2013, LNCS8238, pp.457-466, 2013. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2012-9efe31
+  source: import
+  source_line: 76
+  type: intl_conf
+  year: 2012
+  raw: Shinsuke Mori, Tetsutro Sasada, Yoko Yamakata, Koichiro Yoshino, “A Machine Learning Approach to Recipe Text Processing,” Cooking with Computers Workshop, pp.1-6, 2012. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2012-8142b6
+  source: import
+  source_line: 77
+  type: intl_conf
+  year: 2012
+  raw: 'Hidenori Tsuji, Yoko Yamakata, Takuya Funatomi, Hiromi Hiramatsu, Shinsuke Mori, “IwaCam: a Multimedia Processing Platform for Supporting Video-Based Cooking Communication,” International Conference on Future Generation Communication Technology, pp.109-116, 2012. 査読有り'
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2012-547b17
+  source: import
+  source_line: 78
+  type: intl_conf
+  year: 2012
+  raw: Atsushi Hashimoto, Jin Inoue, Kazuaki Nakamura, Takuya Funatomi, Mayumi Ueda, Yoko Yamakata, Michihiko Minoh, “Recognizing Ingredients at Cutting Process by Integrating Multimodal Features,” Proceedings of the ACM Multimedia 2012 Workshop on Multimedia for Cooking and Eating Activities, pp.12-18, 2012. (CEA’12 Best Paper Award) 査読有り
+  doi: null
+  refereed: true
+  awards:
+  - CEA’12 Best Paper Award
+  links: []
+  flags: []
+- id: intl_conf-2011-bc0fde
+  source: import
+  source_line: 79
+  type: intl_conf
+  year: 2011
+  raw: Yoko Yamakata, Yoshiki Tsuchimoto, Atsushi Hashimoto, Takuya Funatomi, Mayumi Ueda, Michihiko Minoh, “Cooking Ingredient Recognition based on the Load on a Chopping Board during Cutting,” 3rd Workshop on Multimedia for Cooking and Eating Activities (CEA2011), in conjunction with the IEEE International Symposium on Multimedia, pp. 381-386, 2011. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2010-146fcc
+  source: import
+  source_line: 80
+  type: intl_conf
+  year: 2010
+  raw: Toshiyuki Kimura, Yoko Yamakata, Michiaki Katsumoto, “Comparative Performance Evaluation of Near 3D Sound Field Reproduction System with Directional Loudspeakers and Wave Field Synthesis” 4th International Universal Communication Symposium (IUCS2010), pp. 221-228, 2010. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2010-0067b2
+  source: import
+  source_line: 81
+  type: intl_conf
+  year: 2010
+  raw: Yoko Yamakata, Koh Kakusho, Michihiko Minoh, “Object Recognition based on Object’s Identity for Cooking Recognition Task,” 2nd Workshop on Multimedia for Cooking and Eating Activities (CEA2010), in conjunction with the IEEE International Symposium on Multimedia, pp.278-283, 2010. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2009-b086bc
+  source: import
+  source_line: 82
+  type: intl_conf
+  year: 2009
+  raw: Toshiyuki Kimura, Munenori Naoe, Yoko Yamakata Michiaki Katsumoto, “Subjective Effect of Synthesis Conditions in 3D Sound Field Reproduction System Using a Few Transducers and Wave Field Synthesis,” 3rd International Universal Communication Symposium (IUCS2009), No. 8-4, pp. 215-220, 2009. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2009-1dce63
+  source: import
+  source_line: 83
+  type: intl_conf
+  year: 2009
+  raw: Yoko Yamakata, Takuya Funatomi, Koh Kakusho, Michihiko Minoh, “A Study of Object Naming According to the Manufacturing Processes in a Cooking Activity,” Proceedings of the ACM Multimedia 2009, Workshop on Multimedia for Cooking and Eating Activities (CEA2009), pp.1-8, 2009. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2009-866286
+  source: import
+  source_line: 84
+  type: intl_conf
+  year: 2009
+  raw: Toshiyuki Kimura, Yoko Yamakata, Michiaki Katsumoto, Takuma Okamoto, Satoshi Yairi, Yukio Iwaya, Yoichi Suzuki, “Development of Real System in Near 3D Sound Field Reproduction System Using Directional Loudspeakers and Wave Field Synthesis,” 10th Western Pacific Acoustics Conference (WESPAC X 2009), No.0164, pp.1-6, 2009. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2009-6f6ce3
+  source: import
+  source_line: 85
+  type: intl_conf
+  year: 2009
+  raw: Michiaki Katsumoto, Yoko Yamakata Toshiyuki Kimura, “A Novel 3D Audio Display System Using Radiated Loudspeaker for Future 3D Multimodal Communications,” Proceedings on 3DTV-Conference, No.104, pp.1-4, 2009. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2009-b99305
+  source: import
+  source_line: 86
+  type: intl_conf
+  year: 2009
+  raw: Yoko Yamakata, Michiaki Katsumoto Toshiyuki Kimura, “Design of Large Planar Diaphragm Incorporating Multiple Vibrators for Sound Directivity Control via FEM and BEM,” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), No.AE-P4.10, pp.277-280, 2009. 査読有り (採択率46%)
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2008-fa956b
+  source: import
+  source_line: 87
+  type: intl_conf
+  year: 2008
+  raw: Munenori Naoe, Toshiyuki Kimura, Yoko Yamakata, Michiaki Katsumoto, “Performance Evaluation of 3D Sound Field Reproduction System Using a Few Loudspeakers and Wave Field Synthesis,” Proceedings of Second International Symposium on Universal Communication (ISUC 2008), No.2-2, pp.36-41, 2008. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2008-89802a
+  source: import
+  source_line: 88
+  type: intl_conf
+  year: 2008
+  raw: Yoko Yamakata, Michiaki Katsumoto, Toshiyuki Kimura, “Touch, Watch, and Listen to the Sound; Visualized Two-dimensional Plane Vibration and its Sound,” ACM SIGGRAPH2008, Interaction-Poster, Article No. 100, 2008. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2008-7690ee
+  source: import
+  source_line: 89
+  type: intl_conf
+  year: 2008
+  raw: Yoko Yamakata, Michiaki Katsumoto, Toshiyuki Kimura, “Sound Directivity Controlling by Artificially Inducing Bending Vibration of a Planar Diaphragm,” Proceedings of AES Japan Conference, No. PS09, 2008. 査読なし
+  doi: null
+  refereed: false
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2008-ae8176
+  source: import
+  source_line: 90
+  type: intl_conf
+  year: 2008
+  raw: Michiaki Katsumoto, Yoko Yamakata, Toshiyuki Kimura, “Realization of Multi-dimensional Speaker with Frequency Dependence of Directivity,” Proceedings of AES Japan Conference, No. PS08, 2008. 査読なし
+  doi: null
+  refereed: false
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2008-f2094e
+  source: import
+  source_line: 91
+  type: intl_conf
+  year: 2008
+  raw: Toshiyuki. Kimura, Yoko Yamakata, Michiaki Katsumoto, “Theoretical Study and Numerical Analysis of Near 3D Sound Field Reproduction Based on Wave Field Synthesis,” Proceedings of AES Japan Conference, No. PS07, 2008. 査読なし
+  doi: null
+  refereed: false
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2008-ac6afd
+  source: import
+  source_line: 92
+  type: intl_conf
+  year: 2008
+  raw: Yoko Yamakata, Toshiyuki Kimura, Munenori Naoe, Michiaki Katsumoto, “An Investigation of Width and Depth Perception toward a Sound Image Constructed of Multiple Variant Sound Wave Emitted from a Loudspeaker Array,” Proceedings of Acoustics'08 Paris, pp.4715-4720, 2008. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2008-581ef4
+  source: import
+  source_line: 93
+  type: intl_conf
+  year: 2008
+  raw: Toshiyuki Kimura, Yoko Yamakata, Michiaki Katsumoto, “Theoretical Study of Near 3D Sound Field Reproduction based on Wave Field Synthesis,” Proceedings of Acoustics'08 Paris, No.1763, pp.4585-4590, 2008. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2008-34f9c6
+  source: import
+  source_line: 94
+  type: intl_conf
+  year: 2008
+  raw: Munenori Naoe, Toshiyuki Kimura, Yoko Yamakata, Michiaki Katsumoto, “Performance Evaluation of 3D Sound Field Reproduction System with a Few Loudspeakers and Wave Field Synthesis,” Proceedings of Acoustics'08 Paris, No.1834, pp.4591-4596, 2008. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2008-e948c2
+  source: import
+  source_line: 95
+  type: intl_conf
+  year: 2008
+  raw: 'Atsushi Hashimoto, Naoyuki Mori, Takuya Funatomi, Yoko Yamakata, Koh Kakusho, Michihiko Minoh, “Smart Kitchen: A User Centric Cooking Support System,” Proceedings of International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems, pp. 848-854, 2008. 査読有り'
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2008-7e0236
+  source: import
+  source_line: 96
+  type: intl_conf
+  year: 2008
+  raw: Yoko Yamakata, Michiaki Katsumoto, Toshiyuki Kimura, “Directional Sound Radiation System using a Large Planar Diaphragm incorporating Multiple Vibrators,” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Vol. c2008IEEE, No. AE-P6.D4, pp.337-340, 2008. 査読有り(採択率48%)
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2005-67c73e
+  source: import
+  source_line: 97
+  type: intl_conf
+  year: 2005
+  raw: 'Tomasz M. Rutkowski, Yoko Yamakata, Koh Kakusho, Michihiko Minoh, “Smart Sensor Mesh: Intelligent Sensor Clusters Configuration and Location Discovery for Collaborative Information Processing,” Intelligent Media Technology for Communicative Intelligence, LNCS Vol. 3490, pp 147-157, 2005.'
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2003-4eb4bd
+  source: import
+  source_line: 98
+  type: intl_conf
+  year: 2003
+  raw: Tomasz M. Rutkowski, Susumu Seki, Yoko Yamakata, Koh Kakusho, Michihiko Minoh, “Toward the Human Communication Efficiency Monitoring from Captured Audio and Video Media in Real Environments,” Knowledge-Based Intelligent Information and Engineering Systems, LNCS Vol. 2774, pp 1093-1100, 2003.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2002-e05483
+  source: import
+  source_line: 99
+  type: intl_conf
+  year: 2002
+  raw: Yoko Yamakata, Tatsuya Kawahara, Hiroshi G. Okuno, “Belief Network based Disambiguation of Object Reference in Spoken Dialogue System for Robot,” 7th International Conference on Spoken Language Processing (ICSLP), pp.177-180, 2002. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: intl_conf-2002-900670
+  source: import
+  source_line: 100
+  type: intl_conf
+  year: 2002
+  raw: Yoko Yamakata, Tatsuya Kawahara, Hiroshi G. Okuno, “Belief Network based Disambiguation of Object Reference for Robot,” ISCA Tutorial and Research Workshop Multi-Modal Dialogue in Mobile Environments Paper 46, 2002. 査読有り
+  doi: null
+  refereed: true
+  awards: []
+  links: []
+  flags: []
+- id: review-2024-6c3539
+  source: import
+  source_line: 101
+  type: review
+  year: 2024
+  raw: 山肩洋子, "アカデミアとビジネスはかつてないほど近づいている！生成AI時代における学術研究のビジネス活用," JBpress Japan Innovation Review 第1回 データイノベーションフォーラム, オンライン, 2024年3月21日.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: review-2023-b1853e
+  source: import
+  source_line: 102
+  type: review
+  year: 2023
+  raw: 山肩洋子, "第1部 ChatGPTとは何かを知って使いこなす 第2部 ChatGPTのビジネス活用法を考える", 令和5年 「京都観光おもてなし人材育成セミナー」, 市民交流プラザふくちやま, 令和5年9月5日.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags:
+  - year_from_wareki
+- id: review-2016-a3e937
+  source: import
+  source_line: 103
+  type: review
+  year: 2016
+  raw: 山肩洋子，森信介，”ユーザ投稿型レシピの情報処理”，情報処理，Vo.57, No.4, 通巻613号,2016.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: review-2015-03e752
+  source: import
+  source_line: 104
+  type: review
+  year: 2015
+  raw: 山肩洋子, 豊浦正広，西口聡史，村上正行，“大学授業における受講生行動の獲得・閲覧システムの開発と実践，”システム制御情報学会，第59巻 第2号，2015.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: review-2013-8d8429
+  source: import
+  source_line: 105
+  type: review
+  year: 2013
+  raw: 山肩洋子, “情報分野における食メディア研究,” 月刊 画像ラボ, Vol. 24, No.7, pp.1-8, 2013.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: review-2008-cdad1f
+  source: import
+  source_line: 106
+  type: review
+  year: 2008
+  raw: 山肩洋子, 舩冨卓哉, 角所考, 美濃導彦, “調理者の調理を妨げない支援のための調理行動認識に向けて,” 月刊 画像ラボ, Vol. 19, No.1, pp.49-53, 2008.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: review-2008-465c79
+  source: import
+  source_line: 107
+  type: review
+  year: 2008
+  raw: 木村敏幸, 山肩洋子, 勝本道哲, “波面合成法におけるトランスデューサの指向特性‐立体音場再生による超臨場感コミュニケーションの実現のために‐,” 月間 画像ラボ, Vol. 19, No. 2, pp. 54-59, 2008.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2025-d50ae2
+  source: import
+  source_line: 108
+  type: invited_talk
+  year: 2025
+  raw: 山肩洋子, "深層学習と大規模マルチモーダルモデルによる食事画像からの栄養量推定 ", 第 72 回日本栄養改善学会学術総会, 東京農業大学, 2025年9 月13 日.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2025-379468
+  source: import
+  source_line: 109
+  type: invited_talk
+  year: 2025
+  raw: Yoko Yamakata, "AI Applications for Japanese Food Culture and Diet Management," 2nd MetaFood Workshop in conjunction with CVPR 2025, 11 June 2025.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2025-6a5110
+  source: import
+  source_line: 110
+  type: invited_talk
+  year: 2025
+  raw: 山肩洋子, "食事の栄養計算のためのAIの活用," 第79回日本栄養・食糧学会大会 教育講演4, 名古屋大学, 2025年5月24日.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2025-3fb2c8
+  source: import
+  source_line: 111
+  type: invited_talk
+  year: 2025
+  raw: 山肩洋子, "生成AIが変える学びと暮らし ～教育と食の現場から～," 新潟大学ビッグデータアクティベーション研究センター 令和6年度報告会－BDAフェス2025－, 2025年3月27日.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2024-516c7b
+  source: import
+  source_line: 112
+  type: invited_talk
+  year: 2024
+  raw: 山肩洋子, "人と地球の健康のための「食のAI」", 学術情報メディアセンターセミナー「食メディアの情報処理」, 2024年11月19日
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2024-e4ba99
+  source: import
+  source_line: 113
+  type: invited_talk
+  year: 2024
+  raw: 山肩洋子, "人と地球の健康のためのFOOD AI", 【かもしれない未来 20XX年】眠る資源を覚醒させる＜第５回＞人と地球の健康のためのFOOD AI, 立命館大学 学びのプラットフォーム MIRAI, 2024年10月9日
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2024-a15715
+  source: import
+  source_line: 114
+  type: invited_talk
+  year: 2024
+  raw: 山肩洋子, "栄養・食事へのアプローチ －AIから疫学研究まで－ ", 日本医療情報学会課題研究会「栄養・運動・口腔保健・休養の自己管理のための保健医療情報研究会」 , 2024年8月27日
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2024-bb094e
+  source: import
+  source_line: 115
+  type: invited_talk
+  year: 2024
+  raw: 山肩洋子, "人工知能研究の角度から学ぶ！レシピと食事のデータ処理", 第13回日本栄養改善学会東海支部会学術総会, 2024年6 月 2 日
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2023-5e0fae
+  source: import
+  source_line: 116
+  type: invited_talk
+  year: 2023
+  raw: Yoko Yamakata, "Food Computing for Human and Planet Health", 2023 INTERNATIONAL WORKSHOP ON ADVANCED IMAGE TECHNOLOGY (IWAIT) 9-11 January, 2023 , Jeju, Korea
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2015-b7885e
+  source: import
+  source_line: 117
+  type: invited_talk
+  year: 2015
+  raw: 山肩洋子，”レシピの手順説明文書の活用事例”，電子情報通信学会 ヒューマンコミュニケーショングループ シンポジウム 企画セッション IV 「大規模料理レシピデータを用いた研究の最前線」，2015年12月18日，富山．
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2012-de1635
+  source: import
+  source_line: 118
+  type: invited_talk
+  year: 2012
+  raw: 山肩洋子, “料理と食を取り巻く情報メディア技術,” 電子情報通信学会 パターン認識・メディア理解研究会(PRMU), 2012年10月5日，幕張メッセ，日本.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: invited_talk-2007-69202f
+  source: import
+  source_line: 119
+  type: invited_talk
+  year: 2007
+  raw: 山肩洋子, “「１に２を混ぜてください」「１ってなんだっけ？」― 調理法を音声で教示するための中間物の呼称の決定・理解―,” 第６回 NPO法人ウェアラブルコンピュータ研究開発機構交流会, 2007年11月7日，京都，日本．
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: survey-2025-b2f59f
+  source: import
+  source_line: 120
+  type: survey
+  year: 2025
+  raw: 山肩洋子, "進化する生成AIの活用 その可能性と課題," 日本栄養士会雑誌, 2025年12月号, 第68巻第12号, pp.3, 2025.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: survey-2012-083559
+  source: import
+  source_line: 121
+  type: survey
+  year: 2012
+  raw: 山肩洋子, “料理と食を取り巻く情報メディア技術,” 電子情報通信学会 技術研究報告, Vol. 112, No. 225, PRMU2012-66, pp. 79-86, 2012. (招待講演)
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: survey-2010-5125f4
+  source: import
+  source_line: 122
+  type: survey
+  year: 2010
+  raw: 山肩洋子, 舩冨卓哉, 上田博唯, 辻 秀典, 美濃導彦, 中内 靖, 宮脇健三郎, 中村裕一, 椎尾一郎, “料理を作る,” 電子情報通信学会誌2010年1月号 小特集「生活に役立つメディア処理 ―料理行動を科学する―」, Vol. 93, No. 1, pp. 39-47, 2010.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2026-955433
+  source: import
+  source_line: 123
+  type: domestic
+  year: 2026
+  raw: 奥村亮太, 広瀬和世, 松八重一代, 山肩洋子, "衛星画像による小規模金採掘の広域モニタリングに向けたデータセット構築と領域セグメンテーション手法の検討," 電子情報通信学会 メディアエクスペリエンス・バーチャル環境基礎研究会（MVE）, 2026. MVE賞受賞.
+  doi: null
+  refereed: null
+  awards:
+  - MVE賞受賞
+  links: []
+  flags: []
+- id: domestic-2026-842e6f
+  source: import
+  source_line: 124
+  type: domestic
+  year: 2026
+  raw: 清水潤, 山肩洋子, "採点系競技のパフォーマンス改善支援のための大規模言語モデルを用いた評価観点生成," 電子情報通信学会 メディアエクスペリエンス・バーチャル環境基礎研究会（MVE）, 2026.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2025-222e9d
+  source: import
+  source_line: 125
+  type: domestic
+  year: 2025
+  raw: '渡部光貴, 天野宗佑, 山肩洋子, 相澤清晴, "FoodLogAthl-218: 食事管理アプリを用いたデータセット構築," 画像の認識・理解シンポジウム (MIRU2025​), IS2-035, 2025.'
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2025-971248
+  source: import
+  source_line: 126
+  type: domestic
+  year: 2025
+  raw: 豊岡真知, 相澤清晴, 山肩洋子, "大規模言語モデルの実世界理解を測るための食材状態付きレシピデータセット," 画像の認識・理解シンポジウム (MIRU2025​), IS3-163, 2025.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2025-d20064
+  source: import
+  source_line: 127
+  type: domestic
+  year: 2025
+  raw: 前田亮真, 相澤清晴, 白井圭佑, 亀甲博貴, 森 信介, 品川明穂, 元永恵子, 亀井明子, 山肩洋子, "栄養士の補助を前提とした食事画像からの食材推定を介した栄養推定モデルの開発," 映情学技報, vol. 49, no. 17, HI2025-19, pp. 1-6, 2025年6月.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2025-6e2688
+  source: import
+  source_line: 128
+  type: domestic
+  year: 2025
+  raw: 楊 心明, 尾崎 悦子, 相澤 清晴, 山肩 洋子, "大規模言語モデルによる手書き食事記録からの栄養計算システムの開発," DEIM2025 第17回データ工学と情報マネジメントに関するフォーラム（第23回日本データベース学会年次大会）, No. 7K-01, 2025年3月.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2025-abfb54
+  source: import
+  source_line: 129
+  type: domestic
+  year: 2025
+  raw: Satayu Parinayok, Yoko Yamakata, Kiyoharu Aizawa, "Retrieval-based Nutrition Estimation from Food Images, 映情学技報, vol. 49, no. 4, ME2025-38, pp. 183-188, 2025年2月.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2025-65eab2
+  source: import
+  source_line: 130
+  type: domestic
+  year: 2025
+  raw: 今宿祐希・山肩洋子・相澤清晴, "マルチモーダル大規模言語モデルを用いた食事写真からの日本語レシピ生成," 信学技報, vol. 124, no. 373, IE2024-48, pp. 30-35, 2025年2月.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2024-73c849
+  source: import
+  source_line: 131
+  type: domestic
+  year: 2024
+  raw: 今宿祐希・山肩洋子・相澤清晴, "大規模マルチモーダルモデルを用いた食事写真記録からのメンタルヘルス推定に関する検討," 信学技報, vol. 124, no. 281, PRMU2024-23, pp. 83-88, 2024年11月.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2024-888cb1
+  source: import
+  source_line: 132
+  type: domestic
+  year: 2024
+  raw: 今宿祐希, 山肩洋子, 相澤清晴 (東大), “マルチモーダルLLMを用いた食事画像からのレシピ生成,” OS-2C-02, OS-2C-02, 第27回 画像の認識・理解シンポジウム MIRU2024, 2024.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2024-fa154b
+  source: import
+  source_line: 133
+  type: domestic
+  year: 2024
+  raw: 楊心明, 山肩洋子, 相澤清晴 (東大), “マルチモーダルLLMを用いた対話による食事管理とその評価,” IS-1-169, 第27回 画像の認識・理解シンポジウム MIRU2024, 2024.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2024-a273d7
+  source: import
+  source_line: 134
+  type: domestic
+  year: 2024
+  raw: 渡部光貴, 山肩洋子, 相澤清晴 (東大), “食事画像の細粒度分類：大規模画像言語モデルを活用したデータセット構築,” IS-1-029, 第27回 画像の認識・理解シンポジウム MIRU2024, 2024.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2024-c9ceaf
+  source: import
+  source_line: 135
+  type: domestic
+  year: 2024
+  raw: Liangyu Wang, Yoko Yamakata, Kiyoharu Aizawa, "Image Recognition-Based Ingredients Input Support for Food Nutrition Calculation," IE2023-43, vol.123, no.381, pp.46-49, 2024.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2023-abf1f3
+  source: import
+  source_line: 136
+  type: domestic
+  year: 2023
+  raw: Satayu Parinayok (Univ. of Tokyo), Kazuyo Hirose (Japan Space Systems), Yoko Yamakata (Univ. of Tokyo)，Discovering Artisanal and Small-Scale Gold Mining in Satellite Images by Deep Neural Network, 第26回 画像の認識・理解シンポジウム MIRU2023, No. IS1-38, 2023年7月25〜28日, アクトシティ浜松
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2023-bfaf18
+  source: import
+  source_line: 137
+  type: domestic
+  year: 2023
+  raw: 今宿祐希, 山肩洋子, 相澤清晴 (東大)，Vision-Language事前学習モデルを用いた日本食画像のゼロショット分類とプロンプトエンジニアリング, 第26回 画像の認識・理解シンポジウム MIRU2023, No. IS2-107, 2023年7月25〜28日, アクトシティ浜松
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2023-3c3ffb
+  source: import
+  source_line: 138
+  type: domestic
+  year: 2023
+  raw: 楊心明, 奈良亮耶, 王良羽, 山肩洋子, 相澤清晴 (東大)，食材推定モデルを用いた食事記録アプリケーションの開発, 第26回 画像の認識・理解シンポジウム MIRU2023, No. ,IS1-109 2023年7月25〜28日, アクトシティ浜松
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2023-c9a558
+  source: import
+  source_line: 139
+  type: domestic
+  year: 2023
+  raw: 王良羽, 山肩洋子, 相澤清晴, 食事評価のための食事画像認識を目的としたユーザ生成型レシピからの自動データセット構築, 第26回 画像の認識・理解シンポジウム MIRU2023, No. IS1-82, 2023年7月25〜28日, アクトシティ浜松
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2023-785c82
+  source: import
+  source_line: 140
+  type: domestic
+  year: 2023
+  raw: 肖 俊彬, 山肩 洋子, 駒井 武, 松八重 一代, 衛星画像の機械学習による銅資源の採掘に伴う土地改変量の測定, 第18回日本LCA学会研究発表会, No. 2-P3-03, 2023年3月8日（水）～3月10日（金）, 筑波 (学生優秀ポスター発表賞受賞)
+  doi: null
+  refereed: null
+  awards:
+  - 学生優秀ポスター発表賞受賞
+  links: []
+  flags: []
+- id: domestic-2023-cf4e03
+  source: import
+  source_line: 141
+  type: domestic
+  year: 2023
+  raw: 佐藤賢志郎, 山肩洋子, 相澤清晴, "一人称視点の食事映像からの食行動レポートの自動生成", 電子情報通信学会 技術研究報告 画像工学研究会（IE）, vol. 122, no. 385, IE2022-67, pp. 41-46, 2023年2月.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags:
+  - truncated_duplicate_tail
+- id: domestic-2023-e5658d
+  source: import
+  source_line: 142
+  type: domestic
+  year: 2023
+  raw: 王良羽, 山肩洋子, 駿藤晶子, 相澤清晴, "食事評価のための食事画像認識を目的としたユーザ生成型レシピからの半自動データセット構築", 電子情報通信学会 技術研究報告 画像工学研究会（IE）, vol. 122, no. 385, IE2022-66, pp. 35-40, 2023年2月.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2023-6f5026
+  source: import
+  source_line: 143
+  type: domestic
+  year: 2023
+  raw: 山肩洋子, 王良羽, 山末英嗣, 駿藤晶子, 相澤清晴, "ユーザ生成型レシピからの栄養価および環境影響の自動計算のための食材名分類モデルの構築", 電子情報通信学会 技術研究報告 画像工学研究会（IE）, vol. 122, no. 385, IE2022-65, pp. 29-34, 2023年2月.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2022-8c00a0
+  source: import
+  source_line: 144
+  type: domestic
+  year: 2022
+  raw: '石野耀久、山肩洋子、唐澤弘明、天野宗佑、相澤清晴, RecipeLog: 手順構造を持ったマルチメディアレシピのための入力インタフェース, 映像情報メディア学会 メディア工学研究会 , 映情学技報、vol. 46, no. 6, ME2022-28, pp. 13-18, Feb. 21,22, 2022.'
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2022-ab8821
+  source: import
+  source_line: 145
+  type: domestic
+  year: 2022
+  raw: 佐藤賢志郎、天野宗佑、山肩洋子、相澤清晴, 食行動の自動認識に向けた食事中の一人称視点映像データセットの構築, 映像情報メディア学会 メディア工学研究会 , 映情学技報、vol. 46, no. 6, ME2022-29, pp. 19-24, Feb. 21,22, 2022.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2021-361db8
+  source: import
+  source_line: 146
+  type: domestic
+  year: 2021
+  raw: 石野 耀久, 山肩 洋子, 唐澤 弘明, 相澤 清晴. ``RecipeLog :食事管理のためのスケルトンレシピの作成と応用,'' HCGシンポジウム, 2021.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2021-7b866f
+  source: import
+  source_line: 147
+  type: domestic
+  year: 2021
+  raw: 香川璃奈, 原悠輔, 姜志勲,山肩洋子, クックパッドデータセットで学習したBERT及びGPT-2の活用法に関する検討, HCGシンポジウム2021, B-4-6, Nov. 15-17, 2021.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2021-c1e3d9
+  source: import
+  source_line: 148
+  type: domestic
+  year: 2021
+  raw: 佐藤 賢志郎，石野 耀久，唐澤 弘明，山肩 洋子，相澤 清晴, RecipeLog：レシピ作成の支援ツール, 日本栄養改善学会学術総会, IW-04, 1 page, Oct. 1,2, 2021.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2021-d0126a
+  source: import
+  source_line: 149
+  type: domestic
+  year: 2021
+  raw: 香川璃奈, 松原正樹, 宮田玲, 馬場雪乃, 山肩洋子, 文書の内容と構造が書き手の負担と読み手の効用に与える影響の研究：文書記載支援技術の開発に向けて, 2021年度 人工知能学会全国大会論文集 (JSAI2021), 2F3-GS-10g-04, Jun 8-11, 2021.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2021-60ae0d
+  source: import
+  source_line: 150
+  type: domestic
+  year: 2021
+  raw: 香川璃奈, 松原正樹, 宮田玲, 馬場雪乃, 山肩洋子, "料理レシピの内容と構成が書き手の負担と読み手の効用に与える影響の研究", 人工知能学会第26回インタラクティブ情報アクセスと可視化マイニング研究会, 2021. (研究会奨励賞受賞)
+  doi: null
+  refereed: null
+  awards:
+  - 研究会奨励賞受賞
+  links: []
+  flags: []
+- id: domestic-2021-905907
+  source: import
+  source_line: 151
+  type: domestic
+  year: 2021
+  raw: 石野耀久, 唐澤弘明, 山肩洋子, 相澤清晴 , "既存レシピをテンプレートとするレシピ作成支援アプリRecipeLogの開発", データ工学と情報マネジメントに関するフォーラム DEIM Forum 2021, C13-1 (6pages), Mar.1-3, 2021
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2021-120aec
+  source: import
+  source_line: 152
+  type: domestic
+  year: 2021
+  raw: Yixin Zhang, Yoko Yamakata, Keishi Tajima, Stage-Aware Recognition Method for Foodstuffs Changing in Appearance During Cooking Process on Chinese Recipe", , データ工学と情報マネジメントに関するフォーラム DEIM Forum 2021, C13-3 (6pages), Mar.1-3, 2021
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2020-7a3710
+  source: import
+  source_line: 153
+  type: domestic
+  year: 2020
+  raw: 石野耀久，唐澤弘明，天野宗佑，山肩洋子，相澤清晴, "食事記録分析による長期外出自粛の主観的健康度への影響調査", 電子情報通信学会ライフインテリジェンスとオフィス情報システム研究会, LOIS2020-10, pp. 31-36, 2-3, Sep. 2020
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2019-995dda
+  source: import
+  source_line: 154
+  type: domestic
+  year: 2019
+  raw: 中川瑛慎, 田島敬史, 山肩洋子, "質問回答サービスにおける人から人への質問拡散行為を用いた質問提示システムの評価", 第11回データ工学と情報マネジメントに関するフォーラム, No. G1-2, 2019
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2019-46fa3e
+  source: import
+  source_line: 155
+  type: domestic
+  year: 2019
+  raw: 片岡大祐, 田島敬史, 山肩洋子, "ユーザとトピックを指定するTwitter検索における最適な擬似適合フィードバック文書数の動的決定", 第11回データ工学と情報マネジメントに関するフォーラム, No. B2-4, 2019
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2019-b8f661
+  source: import
+  source_line: 156
+  type: domestic
+  year: 2019
+  raw: 李瑞徳,山肩洋子, 田島敬史, "Find Target Data Fast! A Method and Its Behavior of Target Data Collection for Online Annotation using Machine Learning Method", 第11回データ工学と情報マネジメントに関するフォーラム, No. A5-2, 2019
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2019-91d0ef
+  source: import
+  source_line: 157
+  type: domestic
+  year: 2019
+  raw: 西村太一, 橋本敦史, 山肩洋子, 森信介, "写真付き手順書生成のための実施映像からのフレーム選択", 第11回データ工学と情報マネジメントに関するフォーラム, No. G5-5, 2019
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2019-5982a2
+  source: import
+  source_line: 158
+  type: domestic
+  year: 2019
+  raw: 佐々岡哲哉, 山肩洋子, 田島敬史, "非母国語検索者向けの機械翻訳を活用したweb検索結果提示手法の提案", 第11回データ工学と情報マネジメントに関するフォーラム, No. F7-3, 2019
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2019-70ce76
+  source: import
+  source_line: 159
+  type: domestic
+  year: 2019
+  raw: 合田悠治, 天野宗佑, 山肩洋子, 相澤清晴, "大規模食事記録データと深層学習モデルによる食習慣ベクトル化手法の検討", 映像情報メディア学会 メディア工学研究会, Feb.19-20, 2019
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2019-f0dcf7
+  source: import
+  source_line: 160
+  type: domestic
+  year: 2019
+  raw: 唐澤弘明, 川原田美雪, 天野宗佑, 山肩洋子, 相澤清晴, "アスリートの食事管理を支援するフードコンサルティングシステム", 電子情報通信学会 総合大会, H-3-4, Mar.19-22, 2019, Tokyo
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2018-81db51
+  source: import
+  source_line: 161
+  type: domestic
+  year: 2018
+  raw: 合田悠治, 天野宗祐, 山肩洋子, 相澤清晴, "大規模食事記録データの栄養価クラスタリングに基づく食習慣ベクトルBag-of-Foodsとその検証", 情報科学技術フォーラム, FIT2018, O-008, Sep. 19-21, 2018
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2018-185fad
+  source: import
+  source_line: 162
+  type: domestic
+  year: 2018
+  raw: 唐澤弘明, 川原田美雪, 山肩洋子, 相澤清晴, "管理栄養士とアスリートのためのフードコンサルティングシステム", 映像情報メディア学会冬季大会 2018, 13-D6, Dec.20-21, 2018, Tokyo
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2018-d0c897
+  source: import
+  source_line: 163
+  type: domestic
+  year: 2018
+  raw: 安沢昌志, 天野宗佑, 山肩洋子, 元永恵子, 亀井明子, 相澤 清晴, "アスリート支援のための食事画像認識", 電子情報通信学会技術研究報告, Vol. 117, No. 432, pp. 155-160, 2018-02-15
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags:
+  - duplicate_suspected:165
+- id: domestic-2018-4a76e1
+  source: import
+  source_line: 164
+  type: domestic
+  year: 2018
+  raw: 椿田晃大, 天野宗佑, 山肩洋子, 相澤清晴, 小川誠, "短期間の食事記録からの長期間記録の予測と評価", 電子情報通信学会技術研究報告, Vol. 117, No. 432, pp. 149-154, 2018-02-15
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags:
+  - duplicate_suspected:166
+- id: domestic-2018-c8dba6
+  source: import
+  source_line: 165
+  type: domestic
+  year: 2018
+  raw: 安沢昌志, 天野宗佑, 山肩洋子, 元永恵子, 亀井明子, 相澤清晴, "アスリート支援のための食事画像認識", 電子情報通信学会技術研究報告, Vol. 117, No. 431, pp. 155-160, 2018-02-15
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags:
+  - duplicate_suspected:163
+- id: domestic-2018-659208
+  source: import
+  source_line: 166
+  type: domestic
+  year: 2018
+  raw: 椿田晃大, 天野宗佑, 山肩洋子, 相澤清晴, 小川誠, "短期間の食事記録からの長期間記録の予測と評価", 電子情報通信学会技術研究報告, Vol. 117, No. 431, pp. 149-154, 2018-02-15
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags:
+  - duplicate_suspected:164
+- id: domestic-2017-86172c
+  source: import
+  source_line: 167
+  type: domestic
+  year: 2017
+  raw: 山肩 洋子 , 前田 浩邦 , 森 信介 , John CARROLL , "英文レシピを対象とした手順文書からの意味構造抽出", 電子情報通信学会 技術研究報告, Vol. 117, No. 374, pp. 41-46, 2017
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2016-7d93bd
+  source: import
+  source_line: 168
+  type: domestic
+  year: 2016
+  raw: 山肩洋子, 難波英嗣, 大須賀智子, 原島純, 但馬康宏, 森信介, 大山敬三, "料理レシピデータセットを用いた料理用語辞書の自動構築 〜 フローグラフから得られる加工履歴に基づく食材名の分布類似度計算に関する検討 〜," 信学技報, vol. 116, no. 340, DE2016-23, pp. 13-18, 2016.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2016-ea83a9
+  source: import
+  source_line: 169
+  type: domestic
+  year: 2016
+  raw: 安沢昌志，天野宗佑，山肩洋子，山崎俊彦，相澤清晴，小川誠,“食事記録に対するWeb検索結果を利用した代表的食事名の導出”，情報処理学会全国大会，1N-03, 2016年3月10-12日, 2016.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2015-87ae0d
+  source: import
+  source_line: 170
+  type: domestic
+  year: 2015
+  raw: 門脇拓也, 山肩洋子, 田中克己, "根拠に基づく食の状況型推薦," 第7回データ工学と情報マネジメントに関するフォーラム (DEIM), No. C1-6, 2015. (優秀インタラクティブ賞 受賞)
+  doi: null
+  refereed: null
+  awards:
+  - 優秀インタラクティブ賞 受賞
+  links: []
+  flags: []
+- id: domestic-2014-8bc7a2
+  source: import
+  source_line: 171
+  type: domestic
+  year: 2014
+  raw: 山肩洋子, 今堀慎治, 笹田鉄郎, 森信介, “料理名が同じレシピ間の手順構造マッピングによる動作名オントロジーの導出,” 電子情報通信学会 HCGシンポジウム2014 論文集, C-8-5, 2014.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2014-eb24e7
+  source: import
+  source_line: 172
+  type: domestic
+  year: 2014
+  raw: 門脇拓也, 山肩洋子, 田中克己, ブログデータを用いたレシピ状況検索 ～ レシピの決定要因となった状況の発見 ～, 信学技報, vol. 114, no. 204, DE2014-25, pp. 13-18, 2014.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2014-41b7e3
+  source: import
+  source_line: 173
+  type: domestic
+  year: 2014
+  raw: 山肩洋子, 今堀慎治, 前田浩邦, 森 信介, 調理手順文書の自然言語解析結果からの食材・加工からなる作業ツリーの構築, 信学技報, vol. 114, no. 204, DE2014-27, pp. 25-30, 2014.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2014-6aea2c
+  source: import
+  source_line: 174
+  type: domestic
+  year: 2014
+  raw: 門脇拓也, 山肩洋子, 森信介, 田中克己, “誕生・使用事由によるレシピ検索〜生い立ちレシピサーチ〜,” 第6回データ工学と情報マネジメントに関するフォーラム (DEIM), No. F8-5, 2014. (学生プレゼンテーション賞 受賞)
+  doi: null
+  refereed: null
+  awards:
+  - 学生プレゼンテーション賞 受賞
+  links: []
+  flags: []
+- id: domestic-2013-358040
+  source: import
+  source_line: 175
+  type: domestic
+  year: 2013
+  raw: 森信介, 山肩洋子, 笹田鉄郎, 前田浩邦, “レシピテキストのためのフローグラフの定義,” 自然言語処理研究発表会, Vol. 2013-NL-214, No. 13, pp.1-7, 2013.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2013-be7c73
+  source: import
+  source_line: 176
+  type: domestic
+  year: 2013
+  raw: 山肩洋子, 今堀慎治, 杉山祐一, 田中克己, “レシピフローグラフを介したレシピ集合の要約と特徴抽出”, 電子情報通信学会 技術研究報告, Vol. 113, No. 214, DE2013-40, pp. 43-49, 2013.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2013-2e2b15
+  source: import
+  source_line: 177
+  type: domestic
+  year: 2013
+  raw: 前田浩邦, 山肩洋子, 森信介, “レシピテキストからのフローグラフコーパス作成,” 電子情報通信学会 技術研究報告, Vol. 113, No. 214, DE2013-39, pp. 37-42, 2013.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2013-87a785
+  source: import
+  source_line: 178
+  type: domestic
+  year: 2013
+  raw: 杉山祐一, 山肩洋子, 田中克己, “手順情報としてのレシピデータに対する類似レシピの要約と微小で重要な差異の発見”, 第5回データ工学と情報マネジメントに関するフォーラム (DEIM), No. D3-5, 2013.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2012-c0dee0
+  source: import
+  source_line: 179
+  type: domestic
+  year: 2012
+  raw: 山肩洋子, 橋本敦史, 舩冨卓哉, 平松紘実, 辻 秀典, 森信介, “IwaCamを用いたメディア処理による遠隔コミュニケーションの支援‐同時調理を題材とした映像と音声の役割に関する考察‐,” 電子情報通信学会データ工学研究会, Vol. 112, No. 75, pp. 7-12, 2012.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2012-9241e6
+  source: import
+  source_line: 180
+  type: domestic
+  year: 2012
+  raw: 井上仁, 中村和晃, 舩冨卓哉, 橋本敦史, 上田真由美, 山肩洋子, 美濃導彦, “画像・振動音・荷重データを統合的に用いた食材認識,” 電子情報通信学会 マルチメディア・仮想環境基礎(MVE)研究会, Vol. 111, No. 478, pp. 37-42, 2012.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2011-f52acb
+  source: import
+  source_line: 181
+  type: domestic
+  year: 2011
+  raw: 土本良樹, 橋本敦史, 舩冨卓哉, 山肩洋子, 上田真由美, 美濃導彦, “調理における切断加工時の荷重特徴を用いた食材認識,” 電子情報通信学会 マルチメディア・仮想環境基礎(MVE)研究会, Vol. 110, No. 456, pp. 55-60, 2011.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2011-7af929
+  source: import
+  source_line: 182
+  type: domestic
+  year: 2011
+  raw: 山肩洋子, 村上正行, 稲葉利江子, “受講生の発言の自由度を高めた操作容易なレスポンスアナライザの開発,” 教育システム情報学会全国大会講演論文集, Vol.36, pp.192-193, 2011.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2010-eee444
+  source: import
+  source_line: 183
+  type: domestic
+  year: 2010
+  raw: 山肩洋子, 稲葉利江子, 中村聡史, 前川佳一, 浅野泰仁, 木村欣司, 矢作日出樹, 田中克己, “モバイル型レスポンスアナライザによる講義コンテンツへのアノテーション付与,” 平成22年度 情報教育研究集会 予稿集, No. PT-15, 2010.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2010-2d5911
+  source: import
+  source_line: 184
+  type: domestic
+  year: 2010
+  raw: 中村聡史，稲葉利江子，前川佳一，浅野泰仁，木村欣司，矢作日出樹，山肩洋子，田中克己, iTouchLecture：モバイル講義映像・教材視聴システムの実現", 平成22年度情報教育研究集会, 2010 (優秀ポスター賞 受賞).
+  doi: null
+  refereed: null
+  awards:
+  - 優秀ポスター賞 受賞
+  links: []
+  flags: []
+- id: domestic-2010-c92eec
+  source: import
+  source_line: 185
+  type: domestic
+  year: 2010
+  raw: 稲葉利江子，中村聡史，前川佳一，浅野泰仁，木村欣司，矢作日出樹，山肩洋子，田中克己, "iTouchLectureの活用とその有効性に関する報告", 平成22年度情報教育研究集会,2010.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2010-d325f7
+  source: import
+  source_line: 186
+  type: domestic
+  year: 2010
+  raw: 山肩洋子, 西村竜一,勝本道哲,木村敏幸, “マルチチャネル球形スピーカアレイのための独奏音合成手法の検討,” 電子情報通信学会 応用音響(EA)研究会, Vo. 110, No. 131, pp. 1-6, 2010.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2010-63de43
+  source: import
+  source_line: 187
+  type: domestic
+  year: 2010
+  raw: 辻秀典, 山肩洋子, 舩冨卓哉, 近藤一晃, 出口大輔, 井手一郎, 宮脇健三郎, 佐野睦夫, “料理映像コミュニケーション基盤ソフトウェアIwaCamを用いた遠隔共同料理実験,” 電子情報通信学会 マルチメディア・仮想環境基礎(MVE)研究会, Vol. 110, No. 35, pp. 33-34, 2010.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2009-c26160
+  source: import
+  source_line: 188
+  type: domestic
+  year: 2009
+  raw: 山肩洋子, 木村敏幸, 勝本道哲, “映像投影型多面体スピーカアレイによる立体音像への映像付与の一検討,” 電子情報通信学会 応用音響研究会(EA) 技術研究報告, No. EA2009-45, pp. 13-18, 2009.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2009-1219f8
+  source: import
+  source_line: 189
+  type: domestic
+  year: 2009
+  raw: 木村敏幸, 山肩洋子, 勝本道哲, 岡本拓磨, 矢入聡, 岩谷幸雄, 鈴木陽一, “指向性スピーカと波面合成法を用いた近接三次元音場再生システムの音源探査による実環境評価,” 電子情報通信学会 応用音響研究会(EA) 技術研究報告, No. EA2008-141, pp. 31-36, 2009.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2008-17c46e
+  source: import
+  source_line: 190
+  type: domestic
+  year: 2008
+  raw: 山肩洋子, 勝本道哲, 木村敏幸, “平面振動板の複数点を異なる波形で振動させることによる放射音の指向性制御‐振動板形状と加振点位置が指向性に及ぼす影響‐,” 電子情報通信学会 応用音響研究会(EA) 技術研究報告, No. EA2008-112, pp. 65-70, 2008.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2008-bac97e
+  source: import
+  source_line: 191
+  type: domestic
+  year: 2008
+  raw: 木村敏幸, 山肩洋子, 勝本道哲, 岡本拓磨, 矢入聡, 岩谷幸雄, 鈴木陽一, “波面合成法を用いた近接三次元音場再生のシステム試作,” 電子情報通信学会 応用音響研究会(EA) 技術研究報告, No. EA2008-111, pp. 61-64, 2008.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2008-a0aa46
+  source: import
+  source_line: 192
+  type: domestic
+  year: 2008
+  raw: 勝本道哲, 山肩洋子, 木村敏幸, “球形スピーカによる異なる放射特性を持つ音響表現の実現,” 電子情報通信学会 応用音響研究会(EA)技術研究報告, No. EA2008-5, pp. 23-26, 2008.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2008-6c3a62
+  source: import
+  source_line: 193
+  type: domestic
+  year: 2008
+  raw: 木村敏幸, 山肩洋子, 勝本道哲, “波面合成法を用いた近接三次元音場再生の理論的研究,” 電子情報通信学会 応用音響研究会(EA) 技術研究報告, No. EA2008-4, pp. 17-22, 2008.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2008-1ead1b
+  source: import
+  source_line: 194
+  type: domestic
+  year: 2008
+  raw: 直江宗紀, 木村敏幸, 山肩洋子, 勝本道哲, “少数のスピーカと波面合成法を用いた三次元音場再生システムの提案及び性能評価,” 電子情報通信学会 応用音響研究会(EA) 技術研究報告, No. EA2008-1, pp. 1-6, 2008.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2007-a8b70a
+  source: import
+  source_line: 195
+  type: domestic
+  year: 2007
+  raw: 森直幸, 舩冨卓哉, 山肩洋子, 角所考, 美濃導彦, “調理者の手の動きを時空間制約とした調理中の食材追跡,” 電子情報通信学会 マルチメディア・仮想環境基礎研究会(MVE), Vol. 107, No. 454, pp. 45-50, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2007-fba5dc
+  source: import
+  source_line: 196
+  type: domestic
+  year: 2007
+  raw: 勝本道哲, 山肩洋子, 木村敏幸, “異なる放射特性を持つ球形スピーカの実装,” 日本音響学会 聴覚研究会資料, No. H-2007-146, pp. 837-842, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2007-9fad5d
+  source: import
+  source_line: 197
+  type: domestic
+  year: 2007
+  raw: 山肩洋子, 木村敏幸, 直江宗紀, 勝本道哲, “スピーカアレイより複数の類似音を同時に放射させたときの音像の知覚,” 日本音響学会 聴覚研究会資料, Vol. 37, No. 10, pp. 831-836, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2007-064214
+  source: import
+  source_line: 198
+  type: domestic
+  year: 2007
+  raw: 山肩洋子, 勝本道哲, 木村敏幸, “複数の加振装置を備えた振動板による音響放射再生装置の提案,” 電子情報通信学会 第15回マルチメディア通信と分散処理ワークショップ(DPSWS2007), Vol. 2007, No. 9, pp. 189-194, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2007-ebfa77
+  source: import
+  source_line: 199
+  type: domestic
+  year: 2007
+  raw: 山肩洋子, 勝本道哲, 木村敏幸, “物体表面から放射された音波の近距離場における性質分析と再生法の検討,” 情報処理学会 第71回音楽情報科学研究会 研究報告, pp. 67-72, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2007-36e3c7
+  source: import
+  source_line: 200
+  type: domestic
+  year: 2007
+  raw: 勝本道哲, 山肩洋子, 木村敏幸, “球形スピーカーアレイ音響装置による超臨場感音響に関する考察,” 情報処理学会 第71回音楽情報科学研究会 研究報告, pp. 61-66, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2007-0432d9
+  source: import
+  source_line: 201
+  type: domestic
+  year: 2007
+  raw: 山肩洋子, 勝本道哲, “近接音源に対する聴覚能力測定と近接音場再生手法の検討,” 情報処理学会マルチメディア通信と分散処理研究会 研究報告, pp. 61-66, 2007.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2006-f2a35e
+  source: import
+  source_line: 202
+  type: domestic
+  year: 2006
+  raw: 山肩洋子, 角所考, 美濃導彦, “調理における中間食材に対する呼称の解釈法の提案,” 人工知能学会研究会資料, 知識ベースシステム研究会 第75回HAI (Human Agent Interaction)シンポジウム, Vol. SIG-KBS-A602, pp. 53-58, 2006.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2006-9bf516
+  source: import
+  source_line: 203
+  type: domestic
+  year: 2006
+  raw: 長光左千男, 野田真樹子, 山肩洋子, 中村裕一, 美濃導彦, “ユーザの性格に応じた気に入ってもらえる調理アドバイスの構成,” 電子情報通信学会HCGシンポジウム, Vol. 105, No. 681, pp. 71-76, 2006.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2005-f5cd03
+  source: import
+  source_line: 204
+  type: domestic
+  year: 2005
+  raw: 山肩洋子, 正司哲朗, 角所考, 美濃導彦, “アシスタントエージェントとの音声対話による調理コンテンツの自動生成,” 電子情報通信学会技術研究報告 マルチメディア・仮想環境基礎研究会 (MVE2005-55), pp. 55-60, 2005.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2004-82f5d7
+  source: import
+  source_line: 205
+  type: domestic
+  year: 2004
+  raw: 山肩洋子, 尾原秀登, 角所考, 沢田篤史, 美濃導彦, “観測データに基づく生産加工活動認識のための物体・操作・目的情報の統合利用,” 電子情報通信学会技術研究報告 パターン認識・メディア理解 (PRMU), PRMU2003-300, pp. 95-100, 2004.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2002-e93d0c
+  source: import
+  source_line: 206
+  type: domestic
+  year: 2002
+  raw: 山肩洋子, 河原達也, 奥乃博, “ロボットとの音声対話のための信念ネットワークを用いた適応的言語理解,” 人工知能学会 言語・音声理解と対話処理研究会 SIG-SLUD, Vol. A201-03, pp. 15-20, 2002. (2002年度人工知能学会研究会優秀賞受賞)
+  doi: null
+  refereed: null
+  awards:
+  - 2002年度人工知能学会研究会優秀賞受賞
+  links: []
+  flags: []
+- id: domestic-2002-9d4454
+  source: import
+  source_line: 207
+  type: domestic
+  year: 2002
+  raw: 山肩洋子, 河原達也, 奥乃博, 美濃導彦, “音声対話におけるオブジェクト同定のための曖昧性の解消,” 情報科学技術フォーラム2002, No. 3-K29, pp. 425-426, 2002.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2001-9645d3
+  source: import
+  source_line: 208
+  type: domestic
+  year: 2001
+  raw: 山肩洋子, 河原達也, 奥乃博, “視覚情報を話題の対象とする音声対話システム,” 第3回 音声言語シンポジウム 第39回 音声言語情報処理研究会(2001-SLP-39-14), pp. 81-86, 2001.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []
+- id: domestic-2001-b81590
+  source: import
+  source_line: 209
+  type: domestic
+  year: 2001
+  raw: 山肩洋子, 河原達也, “音声対話システムにおける訂正発話の韻律的特徴の分析,” 人工知能学会 言語・音声理解と対話処理研究会(SIG-SLUD-A101-3), 2001.
+  doi: null
+  refereed: null
+  awards: []
+  links: []
+  flags: []

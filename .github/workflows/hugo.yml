@@ -1,7 +1,7 @@
 name: Pages redirect deploy
 
 # 研究室サイトは https://www.yyl.itc.u-tokyo.ac.jp/ へ移転したため、
-# GitHub Pages には Hugo のビルド結果ではなく、redirect/ 配下の
+# GitHub Pages には Hugo のビルド結果ではなく、リポジトリ直下の
 # 転送用ページ（index.html / 404.html）だけを配信する。
 # 404.html も同じ転送ページなので、旧 URL（/ja/... や /en/...）に
 # アクセスされた場合も新サイトのトップへ転送される。
@@ -29,10 +29,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # 配信するのはリポジトリ直下の転送ページ2つだけ。
+      - name: Collect redirect pages
+        run: |
+          mkdir _site
+          cp index.html 404.html _site/
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./redirect
+          path: ./_site
 
   deploy:
     needs: build

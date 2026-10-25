@@ -3,6 +3,6 @@
 研究室サイトは https://www.yyl.itc.u-tokyo.ac.jp/ へ移転しました。
 
 このリポジトリ（https://yamakata.github.io/）は、GitHub Actions
-（`.github/workflows/hugo.yml`）で `redirect/` 配下の転送ページだけを配信し、
+（`.github/workflows/hugo.yml`）でリポジトリ直下の転送ページ（`index.html` / `404.html`）だけを配信し、
 すべてのアクセスを新サイトへ転送しています。
 Hugo のソース（`content/` `config/` など）は残っていますが、現在はビルド・配信していません。

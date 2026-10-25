@@ -1,0 +1,9 @@
+publications:
+  journal: "Ⅰ．論文（査読付き）"
+  intl_conf: "Ⅱ．国際会議Proceedings"
+  review: "Ⅲ. 解説論文"
+  invited_talk: "招待講演"
+  survey: "総説"
+  domestic: "Ⅳ. 国内口頭発表（主要なもの，査読なし）"
+  on_this_page: "このページの内容"
+  external_link: "外部リンク"

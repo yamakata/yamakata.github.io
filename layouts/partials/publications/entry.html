@@ -1,0 +1,18 @@
+{{/*
+  1件分の引用を描画する。
+  raw は原本の文字列をそのまま出す（著者・タイトル・掲載誌への分解はしない）。
+  links は origin: existing / derived のみを描画する。
+  origin: suggested は先生の確認前のため、ここでは絶対に描画しない。
+  refereed が null の場合は何も書かない（"査読なし"などを補わない）。
+*/}}
+<li id="{{ .id }}" class="leading-relaxed">
+  <span>{{ .raw }}</span>
+  {{ range .awards }}
+    <span class="ms-1 inline-block rounded bg-primary-100 px-2 py-0.5 text-sm whitespace-nowrap text-primary-700 dark:bg-primary-900 dark:text-primary-300">{{ . }}</span>
+  {{ end }}
+  {{ range .links }}
+    {{ if or (eq .origin "existing") (eq .origin "derived") }}
+      <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="ms-1 whitespace-nowrap text-sm">[{{ i18n "publications.external_link" }}]</a>
+    {{ end }}
+  {{ end }}
+</li>

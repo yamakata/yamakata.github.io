@@ -1,9 +1,8 @@
 # 東京大学 情報基盤センター 山肩研究室
 
-GitHub Pages用のサンプル研究室ホームページです。
+研究室サイトは https://www.yyl.itc.u-tokyo.ac.jp/ へ移転しました。
 
-## 公開方法
-1. GitHubへアップロード
-2. Settings → Pages
-3. Deploy from a branch
-4. main / root を選択
+このリポジトリ（https://yamakata.github.io/）は、GitHub Actions
+（`.github/workflows/hugo.yml`）で `redirect/` 配下の転送ページだけを配信し、
+すべてのアクセスを新サイトへ転送しています。
+Hugo のソース（`content/` `config/` など）は残っていますが、現在はビルド・配信していません。
